@@ -72,6 +72,15 @@
       ]
     },
     {
+      "intent": "SessionInfoIntent",
+      "slots": [
+        {
+          "name": "SessionName",
+          "type": "LIST_OF_MORE_COMPLETE_SESSIONS"
+        }
+      ]
+    },
+    {
       "intent": "ListSpeakersByBadgeIntent",
       "slots": [
         {

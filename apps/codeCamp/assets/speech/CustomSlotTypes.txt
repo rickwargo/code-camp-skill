@@ -1073,6 +1073,230 @@ web Make your code
 work
 work everywhere
 
+LIST_OF_MORE_COMPLETE_SESSIONS
+------------------------------
+ASP dot net
+ASP dot net 4.6+
+ASP dot net Core
+ASP dot net Integration
+ASP.Net Core and Azure
+Advice from the Trenches
+Analytics using Apache
+Analytics using Apache Spark
+Angular 1.x with Visual
+Angular 2 Tooling
+AngularJS Hello clientside
+AngularJS Hello clientside MVC
+AngularJS Unit Testing
+Apache Spark on HDInsights
+App A Primer
+Architecting Distributed Data
+Architecting Distributed Data Platform
+Architectures that grow
+Azure Perfect Together
+Azure SaaS andor HDP
+Azure Service Fabric
+Azure WebJobs My Next
+Azure helped us improve
+BDD-Style testing for Powershell
+Batch Processing with Azure
+Better Code With Live
+Big Data Analytics
+Bring Solid to Web
+Business Processes in SharePoint
+C++ on the web
+Career tools tips
+Cloud How Azure
+Cloud How Azure helped
+Code With Live
+Code With Live Analyzers
+Compiler to Javascript
+Containers and Docker
+Continuous Integration and Deployment
+Cool ASP dot net
+Core and Azure
+Core and Azure Perfect
+Couchbase Its Web
+Couchbase Its Web Scale
+Create an Alexa
+Create an Alexa Skill
+Creating and debugging
+Creating and debugging hybrid
+Cutting Through The Static
+Data Analytics using Apache
+Data Platform using Microsofts
+Debugging with WinDbg
+Deep Dive on ASP
+Deployment From New
+Deployment From New Idea
+Design To Make
+Designing and Architecting
+Designing and Architecting Distributed
+DevOps to Optimize
+DevOps to Optimize Value
+Developers Most Common
+Developers Most Common Misconceptions
+Developers attendees choose
+Developers attendees choose topics
+Distributed Data Platform
+Dive on ASP
+Docker on Azure
+Efficiency with Visual
+Efficiency with Visual Studio
+Ember.js 2.0 and ASP
+EmberJS ASP.Net Core
+Features You Need
+Functional Compiler to Javascript
+Functional Reactive Programming
+Getting Started With JavaScript
+Getting started with Containers
+HDInsights on Azure
+HDInsights on Azure SaaS
+HDP on Azure
+HDP on Azure PaaS
+Hack Your Career
+Hack Your Career tools
+Hello clientside MVC
+Idea to NuGet
+Implementing a Responsive
+Implementing a Responsive Image
+Integrating Business Processes
+Integration and Deployment
+Interfaces to Minecraft
+Intro to AngularJS
+Intro to AngularJS Hello
+Intro to Visual
+Intro to Visual Web
+Introduction to Azure
+Introduction to Azure Service
+Introduction to BDD-Style
+Introduction to BDD-Style testing
+Introduction to Big
+Introduction to Big Data
+Introduction to Microsoft
+Introduction to Microsoft Azure
+Introduction to R
+Introduction to Swift
+Isolated with Mocks
+JavaScript Libraries for Office
+Keeping Your Unit
+Keeping Your Unit Tests
+Learned to Love
+Learned to Love Dependency
+Libraries for Office
+Libraries for Office 365
+Love Dependency Injection
+MVC 6 Getting Started
+Make Your Web
+Make Your Web Work
+Make your code
+Make your code work
+Making cool gadgets
+Mapping with Leaflet.js
+Maturing DevOps to Optimize
+Messaging for Applications
+Microsofts BigData Technologies
+Minecraft or how-to
+Minecraft or how-to look
+Natural User Interface
+New Idea to NuGet
+New In C#
+New In C# 6
+Optimize Value Delivery
+Optimizing Team Efficiency
+Panel Hack Your Career
+Pester Me An Introduction
+Phenomenal IT Consultant
+Platform using Microsofts
+Platform using Microsofts BigData
+PowerShell V5.0 ships
+Processes in SharePoint
+Processing with Azure
+Processing with Azure WebJobs
+Programmatic Interfaces to Minecraft
+Programming for Natural
+Programming for Natural User
+RabbitMQ Robust Messaging
+Reactive Programming for Natural
+Reporting Services for Developers
+Responsive Image Strategy
+Responsive Web Design
+Robust Messaging for Applications
+SQL Server Reporting
+SQL Server Reporting Services
+SaaS and or HDP
+SaaS and HDP
+SaaS or HDP
+Scaling Systems Architectures
+Server Reporting Services
+Services for Developers
+Services for Developers attendees
+Side Keeping Your Unit
+Side Thats Your Side
+Solid to Web
+Solid to Web Development
+Spark on HDInsights
+Started With JavaScript
+Started With JavaScript Libraries
+Studio and TFS
+Successful App A Primer
+Swift Introduction to Swift
+Systems Architectures that grow
+TSQL for dot net
+Team Efficiency with Visual
+Tests Isolated with Mocks
+Through The Static
+Tooling for Angular
+Tooling for Angular 1.x
+TransactSQL for Developers
+TransactSQL for Developers attendees
+TypeScript JavaScript Evolved
+Unit Tests Isolated
+V5.0 ships with Windows
+Visual Studio and TFS
+Visual Web Parts
+Web Design To Make
+Web Work Everywhere
+WebJobs My Next
+WebJobs My Next SuperPower
+Write Better Code
+apps with ManifoldJS
+apps with ManifoldJS VorlonJS
+as a developer
+attendees choose topics
+code work everywhere
+cool gadgets with IOT
+cool to your kid
+current state of C
+debugging hybrid mobile
+debugging hybrid mobile apps
+dot net 4.6+
+dot net 4.6+ Features
+dot net Core
+dot net Debugging
+dot net Developers
+dot net Integration
+gadgets with IOT
+grow as a developer
+help you grow
+help you grow as
+helped us improve
+how-to look cool
+hybrid mobile apps
+improve the scalability
+mobile apps with ManifoldJS
+scalability of our SaaS
+ships with Windows
+ships with Windows 10
+started with Containers
+state of C
+state of C C++
+techniques that help
+testing for Powershell
+tips and techniques
+tools tips and techniques
+web Make your code
+
 LIST_OF_BADGES
 --------------
 MS

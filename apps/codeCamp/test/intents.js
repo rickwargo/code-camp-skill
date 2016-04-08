@@ -372,6 +372,27 @@ describe('sessions', function () {
     });
 });
 
+// // Step 1: Write the test and run `gulp test-local`
+// // Step 2: Implement the code
+//
+// // New Test for SessionInfo Intent
+// describe('session information', function () {
+//     it('should respond with information about a session', function () {
+//         var result = request.intentRequest({
+//             name: 'SessionInfoIntent',              // This is a new intent and we will have to populate everything.
+//             slots: {
+//                 SessionName: {
+//                     name: 'SessionName',
+//                     value: 'Cool Gadgets with IOT'
+//                 }
+//             }
+//         });
+//
+//         // I like to make it fail even when the code is correct so I can ensure I have the right test
+//         return result.should.eventually.match(/demo some cool ways you can use Rasberry Pi/i);
+//     });
+// });
+
 ////////////// Original tests //////////////
 
 describe('starting up', function () {

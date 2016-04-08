@@ -139,6 +139,44 @@ var dataCache = {
         });
     },
 
+    // // Step 2: Code it -- returns the session info for the given session
+    // //  copy from getSessionsMatching and then modify as needed
+    // getSessionInfosMatching: function (phrase) {
+    //     if (!phrase) {
+    //         console.log(Text.nothingToFind);
+    //         return null;
+    //     }
+    //
+    //     // NOTE: DynamoDBDocument library is not build on promises. The promisifyAll call at the top of the file
+    //     //  promisifies each call and appends the function name with `_Async'.
+    //     return dynamodbDoc.scan_Async({
+    //         // NOTE: Config.namespace is helpful when coding multiple application and the logic is similar. This splits the
+    //         //  tables by "namespace"
+    //         TableName: Config.namespace + 'CodeCamp',
+    //         ProjectionExpression: 'session_info',
+    //         FilterExpression: 'contains(session_name_match, :session_name) and which = :which', // NOTE: case-sensitive comparison on *_match column
+    //         ExpressionAttributeValues: {
+    //             ":session_name": phrase.toLowerCase(),
+    //             ":which": WhichCamp
+    //         }
+    //     }).then(function (data) {
+    //         var value = '';
+    //
+    //         // NOTE: Left as an exercise to handle more than one matching session
+    //         //   Hint: requires session state, a new Intent, and .shouldEndSession(false);
+    //         if (data.Count > 0) {
+    //             value += data.Items[0].session_info;
+    //         } else {
+    //             value = Text.sessionsNotFound(phrase);
+    //         }
+    //         return value.trim();
+    //         // }).catch(function (err) {
+    //         //     console.error('getSessionsMatching dynamoDB Error:', err.message);
+    //     });
+    // },
+    //
+    // // Step 3: Run test -- gulp test-local. Remember that it will fail, even if written correctly.
+
     getRoomPresentations: function (room, time) {
         if (!room) {
             console.log(Text.nothingToFind);

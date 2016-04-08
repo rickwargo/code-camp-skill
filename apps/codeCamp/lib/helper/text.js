@@ -751,6 +751,14 @@ var textHelper = {
         'work',
         'work everywhere'
     ]
+
+    // // Step 2: Code it -- revise phrases to have better matches
+    // moreCompleteSessionPhrases: function () {
+    //     return this.sessionPhrases.filter(function (phrase) {
+    //         // return phrases that have at least three words (two spaces or more)
+    //         return (phrase.match(/ /g) || []).length >= 2;
+    //     });
+    // }
 };
 
 module.change_code = 1;

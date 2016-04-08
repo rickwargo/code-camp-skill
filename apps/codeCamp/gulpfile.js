@@ -225,12 +225,21 @@ gulp.task('create-zip-file', 'Zip the dist directory', function () {
     aliases: ['zip']
 });
 
+gulp.task('build-assets', 'Build assets for updating Alexa Skill Model', function (callback) {
+    return runSequence(
+        ['build-intent-schema', 'build-utterances', 'build-custom-slot-types'],
+        callback
+    );
+}, {
+    aliases: ['assets']
+});
+
 gulp.task('build-zip', 'Process source and create zip file', function (callback) {
     return runSequence(
         'clean',
         'make-dist',
         'node-mods',
-        ['build-intent-schema', 'build-utterances', 'build-custom-slot-types'],
+        'build-assets',
         'create-zip-file',
         callback
     );
@@ -239,7 +248,7 @@ gulp.task('build-zip', 'Process source and create zip file', function (callback)
 gulp.task('quick-build-zip', 'Process source and create zip file (without rebuilding node modules)', function (callback) {
     return runSequence(
         'make-dist',
-        ['build-intent-schema', 'build-utterances', 'build-custom-slot-types'],
+        'build-assets',
         'create-zip-file',
         callback
     );

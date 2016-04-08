@@ -15,6 +15,7 @@ var Alexa = require('./vendor/alexa-app'),
     RoomTimeHelpers = require('./lib/helper/roomTime'),
     TimeHelpers = require('./lib/helper/time'),
     SessionHelpers = require('./lib/helper/session'),
+    SessionInfoHelpers = require('./lib/helper/sessionInfo'),
     // SessionStore = require('./lib/db/sessionStore'),
     Text = require('./lib/helper/text');
 
@@ -247,6 +248,28 @@ alexaApp.intent('SessionIntent',
     function (request, response) {
         return handleIntentHelper(request, response, SessionHelpers.handleSessionIntent);
     });
+
+// // Step 2: Code it.
+// //  Note this is a copy of SessionIntent as it is very similar.
+// alexaApp.intent('SessionInfoIntent',
+//     {
+//         slots: {
+//             SessionName: 'LIST_OF_MORE_COMPLETE_SESSIONS'
+//         },
+//         slot_types: [
+//             {
+//                 name: 'SessionName',
+//                 values: Text.moreCompleteSessionPhrases()
+//             }
+//         ],
+//         utterances: [
+//             'Tell me about {SessionName}',
+//             'What is {SessionName} about'
+//         ]
+//     },
+//     function (request, response) {
+//         return handleIntentHelper(request, response, SessionInfoHelpers.handleSessionInfoIntent);
+//     });
 
 alexaApp.intent('ListSpeakersByBadgeIntent',
     {

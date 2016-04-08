@@ -1671,6 +1671,8 @@ SessionIntent	Give me about sessions similar to {Session}
 SessionIntent	Tell me about sessions similar to {Session}
 SessionIntent	Show me about sessions similar to {Session}
 SessionIntent	Say me about sessions similar to {Session}
+SessionInfoIntent	Tell me about {SessionName}
+SessionInfoIntent	What is {SessionName} about
 ListSpeakersByBadgeIntent	Which Speaker is {Badge}
 ListSpeakersByBadgeIntent	What Speaker is {Badge}
 ListSpeakersByBadgeIntent	Which Presenter is {Badge}
