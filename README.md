@@ -7,6 +7,7 @@ Additionally, the template supports the following development practices through 
 | Available tasks         | Description                                                      |
 | ----------------------- | ---------------------------------------------------------------- |
 | assets                  | Compile/move assets files to dist                                |
+| build-assets            | Build assets for updating Alexa Skill Model ** Aliases: assets   |
 | build-custom-slot-types | Build the custom slot types from source ** Aliases: slots        |
 | build-intent-schema     | Build the intent schema from source ** Aliases: intent, intents  |
 | build-lambda-code       | Process source and create dist.zip file to upload to AWS lambda ** Aliases: build|
