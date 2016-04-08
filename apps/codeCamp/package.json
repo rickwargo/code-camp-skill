@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rickwargo/template.git"
+    "url": "git://github.com/rickwargo/code-camp-skill.git"
   },
   "bugs": {
-    "url": "https://github.com/rickwargo/template/issues"
+    "url": "https://github.com/rickwargo/code-camp-skill/issues"
   },
   "alexa": {
     "applicationId": "amzn1.echo-sdk-ams.app.3a771739-32eb-48b4-b1bd-d9a01e0b2346"

@@ -40,10 +40,10 @@ After successful sign-up of an AWS account, perform the following setups.
 
 ### AWS Template Installation
 1. Copy from Template using `git://github.com/rickwargo/alexa-development-environment.git`.
-2. cd alexa-development-environment/apps/codeCamp
-4. npm install in dest directory
+2. cd code-camp-skill/apps/codeCamp
+4. npm install
 4. gulp lint
-5. gulp test (may need to test this)
+5. gulp test
 6. edit config
 7. node bin/createActivityLog.js (if using)
 8. develop app
@@ -56,7 +56,7 @@ After successful sign-up of an AWS account, perform the following setups.
 3. The first step is to `Select blueprint`. Click on the `Skip` button to move on as we will start with an empty blueprint.
 4. Name the Lambda Function with a name significant to your skill. This name will later be recorded in the config-lambda.js file.
 5. Optionally add a description for the lambda function.
-5. Select the runtime as `Node.js`.
+5. Select the runtime as `Node.js 4.3`.
 6. In the root template directory, execute `gulp build-lambda-code`. This will lint the code, perform local unit tests, download node modules necessary for skill execution, build the intent schema, sample utterances, and custom slot types, and finally move all files to a dist directory and create a zip of those files named `dist.zip`.
 7. Select Code entry type as `Upload a .ZIP file` and then upload the .zip file to AWS Lambda.
 8. Keep the Handler as `index.handler`. This is defined in the alexa-app vendor module in index.js.
