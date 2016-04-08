@@ -1,0 +1,24 @@
+Tell me about Rick Wargo.
+Which speakers are MVPs?
+
+What is Rick speaking on today?
+Where is Chris Gomez speaking today?
+What time is Rick speaking today?
+
+What time is the next session?
+
+What is the next session in {Room}?
+What sessions are in {Room}?
+What session is in {Room} at {Time}?
+What sessions are at {Time}?
+
+Are there any sessions about {Session}?
+What sessions are on {Session}?
+
+What time is it?      ({Session})
+What room is it in?   ({Session})
+
+Who is the most popular speaker?
+What is the most popular time?
+Which is the most popular room?
+What is the most popular session?

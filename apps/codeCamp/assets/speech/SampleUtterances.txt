@@ -1,0 +1,1713 @@
+AboutSpeakerIntent	Tell me about {Speaker}
+AboutSpeakerIntent	Who is {Speaker}
+AboutSpeakerIntent	about {Speaker}
+ChooseSpeakerIntent	I want {Speaker}
+ChooseSpeakerIntent	I meant {Speaker}
+ChooseSpeakerIntent	I said {Speaker}
+ChooseSpeakerIntent	{Speaker}
+IsSpeakerHereIntent	Was {Speaker} here
+IsSpeakerHereIntent	Is {Speaker} here
+IsSpeakerHereIntent	Was he here
+IsSpeakerHereIntent	Is he here
+IsSpeakerHereIntent	Was she here
+IsSpeakerHereIntent	Is she here
+IsSpeakerHereIntent	Was {Speaker} speaking
+IsSpeakerHereIntent	Is {Speaker} speaking
+IsSpeakerHereIntent	Was he speaking
+IsSpeakerHereIntent	Is he speaking
+IsSpeakerHereIntent	Was she speaking
+IsSpeakerHereIntent	Is she speaking
+IsSpeakerHereIntent	Was {Speaker} presenting
+IsSpeakerHereIntent	Is {Speaker} presenting
+IsSpeakerHereIntent	Was he presenting
+IsSpeakerHereIntent	Is he presenting
+IsSpeakerHereIntent	Was she presenting
+IsSpeakerHereIntent	Is she presenting
+IsSpeakerHereIntent	Was {Speaker} here today
+IsSpeakerHereIntent	Is {Speaker} here today
+IsSpeakerHereIntent	Was he here today
+IsSpeakerHereIntent	Is he here today
+IsSpeakerHereIntent	Was she here today
+IsSpeakerHereIntent	Is she here today
+IsSpeakerHereIntent	Was {Speaker} speaking today
+IsSpeakerHereIntent	Is {Speaker} speaking today
+IsSpeakerHereIntent	Was he speaking today
+IsSpeakerHereIntent	Is he speaking today
+IsSpeakerHereIntent	Was she speaking today
+IsSpeakerHereIntent	Is she speaking today
+IsSpeakerHereIntent	Was {Speaker} presenting today
+IsSpeakerHereIntent	Is {Speaker} presenting today
+IsSpeakerHereIntent	Was he presenting today
+IsSpeakerHereIntent	Is he presenting today
+IsSpeakerHereIntent	Was she presenting today
+IsSpeakerHereIntent	Is she presenting today
+IsSpeakerHereIntent	{Speaker} here
+IsSpeakerHereIntent	he here
+IsSpeakerHereIntent	she here
+IsSpeakerHereIntent	{Speaker} is here
+IsSpeakerHereIntent	he is here
+IsSpeakerHereIntent	she is here
+IsSpeakerHereIntent	{Speaker} was here
+IsSpeakerHereIntent	he was here
+IsSpeakerHereIntent	she was here
+IsSpeakerHereIntent	{Speaker} speaking
+IsSpeakerHereIntent	he speaking
+IsSpeakerHereIntent	she speaking
+IsSpeakerHereIntent	{Speaker} is speaking
+IsSpeakerHereIntent	he is speaking
+IsSpeakerHereIntent	she is speaking
+IsSpeakerHereIntent	{Speaker} was speaking
+IsSpeakerHereIntent	he was speaking
+IsSpeakerHereIntent	she was speaking
+IsSpeakerHereIntent	{Speaker} presenting
+IsSpeakerHereIntent	he presenting
+IsSpeakerHereIntent	she presenting
+IsSpeakerHereIntent	{Speaker} is presenting
+IsSpeakerHereIntent	he is presenting
+IsSpeakerHereIntent	she is presenting
+IsSpeakerHereIntent	{Speaker} was presenting
+IsSpeakerHereIntent	he was presenting
+IsSpeakerHereIntent	she was presenting
+IsSpeakerHereIntent	{Speaker} here today
+IsSpeakerHereIntent	he here today
+IsSpeakerHereIntent	she here today
+IsSpeakerHereIntent	{Speaker} is here today
+IsSpeakerHereIntent	he is here today
+IsSpeakerHereIntent	she is here today
+IsSpeakerHereIntent	{Speaker} was here today
+IsSpeakerHereIntent	he was here today
+IsSpeakerHereIntent	she was here today
+IsSpeakerHereIntent	{Speaker} speaking today
+IsSpeakerHereIntent	he speaking today
+IsSpeakerHereIntent	she speaking today
+IsSpeakerHereIntent	{Speaker} is speaking today
+IsSpeakerHereIntent	he is speaking today
+IsSpeakerHereIntent	she is speaking today
+IsSpeakerHereIntent	{Speaker} was speaking today
+IsSpeakerHereIntent	he was speaking today
+IsSpeakerHereIntent	she was speaking today
+IsSpeakerHereIntent	{Speaker} presenting today
+IsSpeakerHereIntent	he presenting today
+IsSpeakerHereIntent	she presenting today
+IsSpeakerHereIntent	{Speaker} is presenting today
+IsSpeakerHereIntent	he is presenting today
+IsSpeakerHereIntent	she is presenting today
+IsSpeakerHereIntent	{Speaker} was presenting today
+IsSpeakerHereIntent	he was presenting today
+IsSpeakerHereIntent	she was presenting today
+IsSpeakerHereIntent	Are they here
+IsSpeakerHereIntent	Are they speaking
+IsSpeakerHereIntent	Are they presenting
+IsSpeakerHereIntent	Are they here today
+IsSpeakerHereIntent	Are they speaking today
+IsSpeakerHereIntent	Are they presenting today
+SpeakingAboutIntent	What was he speaking
+SpeakingAboutIntent	What is he speaking
+SpeakingAboutIntent	What was she speaking
+SpeakingAboutIntent	What is she speaking
+SpeakingAboutIntent	What was {Speaker} speaking
+SpeakingAboutIntent	What is {Speaker} speaking
+SpeakingAboutIntent	What was he presenting
+SpeakingAboutIntent	What is he presenting
+SpeakingAboutIntent	What was she presenting
+SpeakingAboutIntent	What is she presenting
+SpeakingAboutIntent	What was {Speaker} presenting
+SpeakingAboutIntent	What is {Speaker} presenting
+SpeakingAboutIntent	What was he speaking on
+SpeakingAboutIntent	What is he speaking on
+SpeakingAboutIntent	What was she speaking on
+SpeakingAboutIntent	What is she speaking on
+SpeakingAboutIntent	What was {Speaker} speaking on
+SpeakingAboutIntent	What is {Speaker} speaking on
+SpeakingAboutIntent	What was he presenting on
+SpeakingAboutIntent	What is he presenting on
+SpeakingAboutIntent	What was she presenting on
+SpeakingAboutIntent	What is she presenting on
+SpeakingAboutIntent	What was {Speaker} presenting on
+SpeakingAboutIntent	What is {Speaker} presenting on
+SpeakingAboutIntent	What was he speaking about
+SpeakingAboutIntent	What is he speaking about
+SpeakingAboutIntent	What was she speaking about
+SpeakingAboutIntent	What is she speaking about
+SpeakingAboutIntent	What was {Speaker} speaking about
+SpeakingAboutIntent	What is {Speaker} speaking about
+SpeakingAboutIntent	What was he presenting about
+SpeakingAboutIntent	What is he presenting about
+SpeakingAboutIntent	What was she presenting about
+SpeakingAboutIntent	What is she presenting about
+SpeakingAboutIntent	What was {Speaker} presenting about
+SpeakingAboutIntent	What is {Speaker} presenting about
+SpeakingAboutIntent	What was he speaking earlier
+SpeakingAboutIntent	What is he speaking earlier
+SpeakingAboutIntent	What was she speaking earlier
+SpeakingAboutIntent	What is she speaking earlier
+SpeakingAboutIntent	What was {Speaker} speaking earlier
+SpeakingAboutIntent	What is {Speaker} speaking earlier
+SpeakingAboutIntent	What was he presenting earlier
+SpeakingAboutIntent	What is he presenting earlier
+SpeakingAboutIntent	What was she presenting earlier
+SpeakingAboutIntent	What is she presenting earlier
+SpeakingAboutIntent	What was {Speaker} presenting earlier
+SpeakingAboutIntent	What is {Speaker} presenting earlier
+SpeakingAboutIntent	What was he speaking on earlier
+SpeakingAboutIntent	What is he speaking on earlier
+SpeakingAboutIntent	What was she speaking on earlier
+SpeakingAboutIntent	What is she speaking on earlier
+SpeakingAboutIntent	What was {Speaker} speaking on earlier
+SpeakingAboutIntent	What is {Speaker} speaking on earlier
+SpeakingAboutIntent	What was he presenting on earlier
+SpeakingAboutIntent	What is he presenting on earlier
+SpeakingAboutIntent	What was she presenting on earlier
+SpeakingAboutIntent	What is she presenting on earlier
+SpeakingAboutIntent	What was {Speaker} presenting on earlier
+SpeakingAboutIntent	What is {Speaker} presenting on earlier
+SpeakingAboutIntent	What was he speaking about earlier
+SpeakingAboutIntent	What is he speaking about earlier
+SpeakingAboutIntent	What was she speaking about earlier
+SpeakingAboutIntent	What is she speaking about earlier
+SpeakingAboutIntent	What was {Speaker} speaking about earlier
+SpeakingAboutIntent	What is {Speaker} speaking about earlier
+SpeakingAboutIntent	What was he presenting about earlier
+SpeakingAboutIntent	What is he presenting about earlier
+SpeakingAboutIntent	What was she presenting about earlier
+SpeakingAboutIntent	What is she presenting about earlier
+SpeakingAboutIntent	What was {Speaker} presenting about earlier
+SpeakingAboutIntent	What is {Speaker} presenting about earlier
+SpeakingAboutIntent	What was he speaking today
+SpeakingAboutIntent	What is he speaking today
+SpeakingAboutIntent	What was she speaking today
+SpeakingAboutIntent	What is she speaking today
+SpeakingAboutIntent	What was {Speaker} speaking today
+SpeakingAboutIntent	What is {Speaker} speaking today
+SpeakingAboutIntent	What was he presenting today
+SpeakingAboutIntent	What is he presenting today
+SpeakingAboutIntent	What was she presenting today
+SpeakingAboutIntent	What is she presenting today
+SpeakingAboutIntent	What was {Speaker} presenting today
+SpeakingAboutIntent	What is {Speaker} presenting today
+SpeakingAboutIntent	What was he speaking on today
+SpeakingAboutIntent	What is he speaking on today
+SpeakingAboutIntent	What was she speaking on today
+SpeakingAboutIntent	What is she speaking on today
+SpeakingAboutIntent	What was {Speaker} speaking on today
+SpeakingAboutIntent	What is {Speaker} speaking on today
+SpeakingAboutIntent	What was he presenting on today
+SpeakingAboutIntent	What is he presenting on today
+SpeakingAboutIntent	What was she presenting on today
+SpeakingAboutIntent	What is she presenting on today
+SpeakingAboutIntent	What was {Speaker} presenting on today
+SpeakingAboutIntent	What is {Speaker} presenting on today
+SpeakingAboutIntent	What was he speaking about today
+SpeakingAboutIntent	What is he speaking about today
+SpeakingAboutIntent	What was she speaking about today
+SpeakingAboutIntent	What is she speaking about today
+SpeakingAboutIntent	What was {Speaker} speaking about today
+SpeakingAboutIntent	What is {Speaker} speaking about today
+SpeakingAboutIntent	What was he presenting about today
+SpeakingAboutIntent	What is he presenting about today
+SpeakingAboutIntent	What was she presenting about today
+SpeakingAboutIntent	What is she presenting about today
+SpeakingAboutIntent	What was {Speaker} presenting about today
+SpeakingAboutIntent	What is {Speaker} presenting about today
+SpeakingAboutIntent	What was he speaking now
+SpeakingAboutIntent	What is he speaking now
+SpeakingAboutIntent	What was she speaking now
+SpeakingAboutIntent	What is she speaking now
+SpeakingAboutIntent	What was {Speaker} speaking now
+SpeakingAboutIntent	What is {Speaker} speaking now
+SpeakingAboutIntent	What was he presenting now
+SpeakingAboutIntent	What is he presenting now
+SpeakingAboutIntent	What was she presenting now
+SpeakingAboutIntent	What is she presenting now
+SpeakingAboutIntent	What was {Speaker} presenting now
+SpeakingAboutIntent	What is {Speaker} presenting now
+SpeakingAboutIntent	What was he speaking on now
+SpeakingAboutIntent	What is he speaking on now
+SpeakingAboutIntent	What was she speaking on now
+SpeakingAboutIntent	What is she speaking on now
+SpeakingAboutIntent	What was {Speaker} speaking on now
+SpeakingAboutIntent	What is {Speaker} speaking on now
+SpeakingAboutIntent	What was he presenting on now
+SpeakingAboutIntent	What is he presenting on now
+SpeakingAboutIntent	What was she presenting on now
+SpeakingAboutIntent	What is she presenting on now
+SpeakingAboutIntent	What was {Speaker} presenting on now
+SpeakingAboutIntent	What is {Speaker} presenting on now
+SpeakingAboutIntent	What was he speaking about now
+SpeakingAboutIntent	What is he speaking about now
+SpeakingAboutIntent	What was she speaking about now
+SpeakingAboutIntent	What is she speaking about now
+SpeakingAboutIntent	What was {Speaker} speaking about now
+SpeakingAboutIntent	What is {Speaker} speaking about now
+SpeakingAboutIntent	What was he presenting about now
+SpeakingAboutIntent	What is he presenting about now
+SpeakingAboutIntent	What was she presenting about now
+SpeakingAboutIntent	What is she presenting about now
+SpeakingAboutIntent	What was {Speaker} presenting about now
+SpeakingAboutIntent	What is {Speaker} presenting about now
+SpeakingAboutIntent	What was he speaking next
+SpeakingAboutIntent	What is he speaking next
+SpeakingAboutIntent	What was she speaking next
+SpeakingAboutIntent	What is she speaking next
+SpeakingAboutIntent	What was {Speaker} speaking next
+SpeakingAboutIntent	What is {Speaker} speaking next
+SpeakingAboutIntent	What was he presenting next
+SpeakingAboutIntent	What is he presenting next
+SpeakingAboutIntent	What was she presenting next
+SpeakingAboutIntent	What is she presenting next
+SpeakingAboutIntent	What was {Speaker} presenting next
+SpeakingAboutIntent	What is {Speaker} presenting next
+SpeakingAboutIntent	What was he speaking on next
+SpeakingAboutIntent	What is he speaking on next
+SpeakingAboutIntent	What was she speaking on next
+SpeakingAboutIntent	What is she speaking on next
+SpeakingAboutIntent	What was {Speaker} speaking on next
+SpeakingAboutIntent	What is {Speaker} speaking on next
+SpeakingAboutIntent	What was he presenting on next
+SpeakingAboutIntent	What is he presenting on next
+SpeakingAboutIntent	What was she presenting on next
+SpeakingAboutIntent	What is she presenting on next
+SpeakingAboutIntent	What was {Speaker} presenting on next
+SpeakingAboutIntent	What is {Speaker} presenting on next
+SpeakingAboutIntent	What was he speaking about next
+SpeakingAboutIntent	What is he speaking about next
+SpeakingAboutIntent	What was she speaking about next
+SpeakingAboutIntent	What is she speaking about next
+SpeakingAboutIntent	What was {Speaker} speaking about next
+SpeakingAboutIntent	What is {Speaker} speaking about next
+SpeakingAboutIntent	What was he presenting about next
+SpeakingAboutIntent	What is he presenting about next
+SpeakingAboutIntent	What was she presenting about next
+SpeakingAboutIntent	What is she presenting about next
+SpeakingAboutIntent	What was {Speaker} presenting about next
+SpeakingAboutIntent	What is {Speaker} presenting about next
+SpeakingAboutIntent	What was he speaking later
+SpeakingAboutIntent	What is he speaking later
+SpeakingAboutIntent	What was she speaking later
+SpeakingAboutIntent	What is she speaking later
+SpeakingAboutIntent	What was {Speaker} speaking later
+SpeakingAboutIntent	What is {Speaker} speaking later
+SpeakingAboutIntent	What was he presenting later
+SpeakingAboutIntent	What is he presenting later
+SpeakingAboutIntent	What was she presenting later
+SpeakingAboutIntent	What is she presenting later
+SpeakingAboutIntent	What was {Speaker} presenting later
+SpeakingAboutIntent	What is {Speaker} presenting later
+SpeakingAboutIntent	What was he speaking on later
+SpeakingAboutIntent	What is he speaking on later
+SpeakingAboutIntent	What was she speaking on later
+SpeakingAboutIntent	What is she speaking on later
+SpeakingAboutIntent	What was {Speaker} speaking on later
+SpeakingAboutIntent	What is {Speaker} speaking on later
+SpeakingAboutIntent	What was he presenting on later
+SpeakingAboutIntent	What is he presenting on later
+SpeakingAboutIntent	What was she presenting on later
+SpeakingAboutIntent	What is she presenting on later
+SpeakingAboutIntent	What was {Speaker} presenting on later
+SpeakingAboutIntent	What is {Speaker} presenting on later
+SpeakingAboutIntent	What was he speaking about later
+SpeakingAboutIntent	What is he speaking about later
+SpeakingAboutIntent	What was she speaking about later
+SpeakingAboutIntent	What is she speaking about later
+SpeakingAboutIntent	What was {Speaker} speaking about later
+SpeakingAboutIntent	What is {Speaker} speaking about later
+SpeakingAboutIntent	What was he presenting about later
+SpeakingAboutIntent	What is he presenting about later
+SpeakingAboutIntent	What was she presenting about later
+SpeakingAboutIntent	What is she presenting about later
+SpeakingAboutIntent	What was {Speaker} presenting about later
+SpeakingAboutIntent	What is {Speaker} presenting about later
+SpeakingAboutIntent	What was he speaking at {Time}
+SpeakingAboutIntent	What is he speaking at {Time}
+SpeakingAboutIntent	What was she speaking at {Time}
+SpeakingAboutIntent	What is she speaking at {Time}
+SpeakingAboutIntent	What was {Speaker} speaking at {Time}
+SpeakingAboutIntent	What is {Speaker} speaking at {Time}
+SpeakingAboutIntent	What was he presenting at {Time}
+SpeakingAboutIntent	What is he presenting at {Time}
+SpeakingAboutIntent	What was she presenting at {Time}
+SpeakingAboutIntent	What is she presenting at {Time}
+SpeakingAboutIntent	What was {Speaker} presenting at {Time}
+SpeakingAboutIntent	What is {Speaker} presenting at {Time}
+SpeakingAboutIntent	What was he speaking on at {Time}
+SpeakingAboutIntent	What is he speaking on at {Time}
+SpeakingAboutIntent	What was she speaking on at {Time}
+SpeakingAboutIntent	What is she speaking on at {Time}
+SpeakingAboutIntent	What was {Speaker} speaking on at {Time}
+SpeakingAboutIntent	What is {Speaker} speaking on at {Time}
+SpeakingAboutIntent	What was he presenting on at {Time}
+SpeakingAboutIntent	What is he presenting on at {Time}
+SpeakingAboutIntent	What was she presenting on at {Time}
+SpeakingAboutIntent	What is she presenting on at {Time}
+SpeakingAboutIntent	What was {Speaker} presenting on at {Time}
+SpeakingAboutIntent	What is {Speaker} presenting on at {Time}
+SpeakingAboutIntent	What was he speaking about at {Time}
+SpeakingAboutIntent	What is he speaking about at {Time}
+SpeakingAboutIntent	What was she speaking about at {Time}
+SpeakingAboutIntent	What is she speaking about at {Time}
+SpeakingAboutIntent	What was {Speaker} speaking about at {Time}
+SpeakingAboutIntent	What is {Speaker} speaking about at {Time}
+SpeakingAboutIntent	What was he presenting about at {Time}
+SpeakingAboutIntent	What is he presenting about at {Time}
+SpeakingAboutIntent	What was she presenting about at {Time}
+SpeakingAboutIntent	What is she presenting about at {Time}
+SpeakingAboutIntent	What was {Speaker} presenting about at {Time}
+SpeakingAboutIntent	What is {Speaker} presenting about at {Time}
+SpeakingAboutIntent	What he was speaking
+SpeakingAboutIntent	What she was speaking
+SpeakingAboutIntent	What {Speaker} was speaking
+SpeakingAboutIntent	What he is speaking
+SpeakingAboutIntent	What she is speaking
+SpeakingAboutIntent	What {Speaker} is speaking
+SpeakingAboutIntent	What he was presenting
+SpeakingAboutIntent	What she was presenting
+SpeakingAboutIntent	What {Speaker} was presenting
+SpeakingAboutIntent	What he is presenting
+SpeakingAboutIntent	What she is presenting
+SpeakingAboutIntent	What {Speaker} is presenting
+SpeakingAboutIntent	What he was speaking on
+SpeakingAboutIntent	What she was speaking on
+SpeakingAboutIntent	What {Speaker} was speaking on
+SpeakingAboutIntent	What he is speaking on
+SpeakingAboutIntent	What she is speaking on
+SpeakingAboutIntent	What {Speaker} is speaking on
+SpeakingAboutIntent	What he was presenting on
+SpeakingAboutIntent	What she was presenting on
+SpeakingAboutIntent	What {Speaker} was presenting on
+SpeakingAboutIntent	What he is presenting on
+SpeakingAboutIntent	What she is presenting on
+SpeakingAboutIntent	What {Speaker} is presenting on
+SpeakingAboutIntent	What he was speaking about
+SpeakingAboutIntent	What she was speaking about
+SpeakingAboutIntent	What {Speaker} was speaking about
+SpeakingAboutIntent	What he is speaking about
+SpeakingAboutIntent	What she is speaking about
+SpeakingAboutIntent	What {Speaker} is speaking about
+SpeakingAboutIntent	What he was presenting about
+SpeakingAboutIntent	What she was presenting about
+SpeakingAboutIntent	What {Speaker} was presenting about
+SpeakingAboutIntent	What he is presenting about
+SpeakingAboutIntent	What she is presenting about
+SpeakingAboutIntent	What {Speaker} is presenting about
+SpeakingAboutIntent	What he was speaking earlier
+SpeakingAboutIntent	What she was speaking earlier
+SpeakingAboutIntent	What {Speaker} was speaking earlier
+SpeakingAboutIntent	What he is speaking earlier
+SpeakingAboutIntent	What she is speaking earlier
+SpeakingAboutIntent	What {Speaker} is speaking earlier
+SpeakingAboutIntent	What he was presenting earlier
+SpeakingAboutIntent	What she was presenting earlier
+SpeakingAboutIntent	What {Speaker} was presenting earlier
+SpeakingAboutIntent	What he is presenting earlier
+SpeakingAboutIntent	What she is presenting earlier
+SpeakingAboutIntent	What {Speaker} is presenting earlier
+SpeakingAboutIntent	What he was speaking on earlier
+SpeakingAboutIntent	What she was speaking on earlier
+SpeakingAboutIntent	What {Speaker} was speaking on earlier
+SpeakingAboutIntent	What he is speaking on earlier
+SpeakingAboutIntent	What she is speaking on earlier
+SpeakingAboutIntent	What {Speaker} is speaking on earlier
+SpeakingAboutIntent	What he was presenting on earlier
+SpeakingAboutIntent	What she was presenting on earlier
+SpeakingAboutIntent	What {Speaker} was presenting on earlier
+SpeakingAboutIntent	What he is presenting on earlier
+SpeakingAboutIntent	What she is presenting on earlier
+SpeakingAboutIntent	What {Speaker} is presenting on earlier
+SpeakingAboutIntent	What he was speaking about earlier
+SpeakingAboutIntent	What she was speaking about earlier
+SpeakingAboutIntent	What {Speaker} was speaking about earlier
+SpeakingAboutIntent	What he is speaking about earlier
+SpeakingAboutIntent	What she is speaking about earlier
+SpeakingAboutIntent	What {Speaker} is speaking about earlier
+SpeakingAboutIntent	What he was presenting about earlier
+SpeakingAboutIntent	What she was presenting about earlier
+SpeakingAboutIntent	What {Speaker} was presenting about earlier
+SpeakingAboutIntent	What he is presenting about earlier
+SpeakingAboutIntent	What she is presenting about earlier
+SpeakingAboutIntent	What {Speaker} is presenting about earlier
+SpeakingAboutIntent	What he was speaking today
+SpeakingAboutIntent	What she was speaking today
+SpeakingAboutIntent	What {Speaker} was speaking today
+SpeakingAboutIntent	What he is speaking today
+SpeakingAboutIntent	What she is speaking today
+SpeakingAboutIntent	What {Speaker} is speaking today
+SpeakingAboutIntent	What he was presenting today
+SpeakingAboutIntent	What she was presenting today
+SpeakingAboutIntent	What {Speaker} was presenting today
+SpeakingAboutIntent	What he is presenting today
+SpeakingAboutIntent	What she is presenting today
+SpeakingAboutIntent	What {Speaker} is presenting today
+SpeakingAboutIntent	What he was speaking on today
+SpeakingAboutIntent	What she was speaking on today
+SpeakingAboutIntent	What {Speaker} was speaking on today
+SpeakingAboutIntent	What he is speaking on today
+SpeakingAboutIntent	What she is speaking on today
+SpeakingAboutIntent	What {Speaker} is speaking on today
+SpeakingAboutIntent	What he was presenting on today
+SpeakingAboutIntent	What she was presenting on today
+SpeakingAboutIntent	What {Speaker} was presenting on today
+SpeakingAboutIntent	What he is presenting on today
+SpeakingAboutIntent	What she is presenting on today
+SpeakingAboutIntent	What {Speaker} is presenting on today
+SpeakingAboutIntent	What he was speaking about today
+SpeakingAboutIntent	What she was speaking about today
+SpeakingAboutIntent	What {Speaker} was speaking about today
+SpeakingAboutIntent	What he is speaking about today
+SpeakingAboutIntent	What she is speaking about today
+SpeakingAboutIntent	What {Speaker} is speaking about today
+SpeakingAboutIntent	What he was presenting about today
+SpeakingAboutIntent	What she was presenting about today
+SpeakingAboutIntent	What {Speaker} was presenting about today
+SpeakingAboutIntent	What he is presenting about today
+SpeakingAboutIntent	What she is presenting about today
+SpeakingAboutIntent	What {Speaker} is presenting about today
+SpeakingAboutIntent	What he was speaking now
+SpeakingAboutIntent	What she was speaking now
+SpeakingAboutIntent	What {Speaker} was speaking now
+SpeakingAboutIntent	What he is speaking now
+SpeakingAboutIntent	What she is speaking now
+SpeakingAboutIntent	What {Speaker} is speaking now
+SpeakingAboutIntent	What he was presenting now
+SpeakingAboutIntent	What she was presenting now
+SpeakingAboutIntent	What {Speaker} was presenting now
+SpeakingAboutIntent	What he is presenting now
+SpeakingAboutIntent	What she is presenting now
+SpeakingAboutIntent	What {Speaker} is presenting now
+SpeakingAboutIntent	What he was speaking on now
+SpeakingAboutIntent	What she was speaking on now
+SpeakingAboutIntent	What {Speaker} was speaking on now
+SpeakingAboutIntent	What he is speaking on now
+SpeakingAboutIntent	What she is speaking on now
+SpeakingAboutIntent	What {Speaker} is speaking on now
+SpeakingAboutIntent	What he was presenting on now
+SpeakingAboutIntent	What she was presenting on now
+SpeakingAboutIntent	What {Speaker} was presenting on now
+SpeakingAboutIntent	What he is presenting on now
+SpeakingAboutIntent	What she is presenting on now
+SpeakingAboutIntent	What {Speaker} is presenting on now
+SpeakingAboutIntent	What he was speaking about now
+SpeakingAboutIntent	What she was speaking about now
+SpeakingAboutIntent	What {Speaker} was speaking about now
+SpeakingAboutIntent	What he is speaking about now
+SpeakingAboutIntent	What she is speaking about now
+SpeakingAboutIntent	What {Speaker} is speaking about now
+SpeakingAboutIntent	What he was presenting about now
+SpeakingAboutIntent	What she was presenting about now
+SpeakingAboutIntent	What {Speaker} was presenting about now
+SpeakingAboutIntent	What he is presenting about now
+SpeakingAboutIntent	What she is presenting about now
+SpeakingAboutIntent	What {Speaker} is presenting about now
+SpeakingAboutIntent	What he was speaking next
+SpeakingAboutIntent	What she was speaking next
+SpeakingAboutIntent	What {Speaker} was speaking next
+SpeakingAboutIntent	What he is speaking next
+SpeakingAboutIntent	What she is speaking next
+SpeakingAboutIntent	What {Speaker} is speaking next
+SpeakingAboutIntent	What he was presenting next
+SpeakingAboutIntent	What she was presenting next
+SpeakingAboutIntent	What {Speaker} was presenting next
+SpeakingAboutIntent	What he is presenting next
+SpeakingAboutIntent	What she is presenting next
+SpeakingAboutIntent	What {Speaker} is presenting next
+SpeakingAboutIntent	What he was speaking on next
+SpeakingAboutIntent	What she was speaking on next
+SpeakingAboutIntent	What {Speaker} was speaking on next
+SpeakingAboutIntent	What he is speaking on next
+SpeakingAboutIntent	What she is speaking on next
+SpeakingAboutIntent	What {Speaker} is speaking on next
+SpeakingAboutIntent	What he was presenting on next
+SpeakingAboutIntent	What she was presenting on next
+SpeakingAboutIntent	What {Speaker} was presenting on next
+SpeakingAboutIntent	What he is presenting on next
+SpeakingAboutIntent	What she is presenting on next
+SpeakingAboutIntent	What {Speaker} is presenting on next
+SpeakingAboutIntent	What he was speaking about next
+SpeakingAboutIntent	What she was speaking about next
+SpeakingAboutIntent	What {Speaker} was speaking about next
+SpeakingAboutIntent	What he is speaking about next
+SpeakingAboutIntent	What she is speaking about next
+SpeakingAboutIntent	What {Speaker} is speaking about next
+SpeakingAboutIntent	What he was presenting about next
+SpeakingAboutIntent	What she was presenting about next
+SpeakingAboutIntent	What {Speaker} was presenting about next
+SpeakingAboutIntent	What he is presenting about next
+SpeakingAboutIntent	What she is presenting about next
+SpeakingAboutIntent	What {Speaker} is presenting about next
+SpeakingAboutIntent	What he was speaking later
+SpeakingAboutIntent	What she was speaking later
+SpeakingAboutIntent	What {Speaker} was speaking later
+SpeakingAboutIntent	What he is speaking later
+SpeakingAboutIntent	What she is speaking later
+SpeakingAboutIntent	What {Speaker} is speaking later
+SpeakingAboutIntent	What he was presenting later
+SpeakingAboutIntent	What she was presenting later
+SpeakingAboutIntent	What {Speaker} was presenting later
+SpeakingAboutIntent	What he is presenting later
+SpeakingAboutIntent	What she is presenting later
+SpeakingAboutIntent	What {Speaker} is presenting later
+SpeakingAboutIntent	What he was speaking on later
+SpeakingAboutIntent	What she was speaking on later
+SpeakingAboutIntent	What {Speaker} was speaking on later
+SpeakingAboutIntent	What he is speaking on later
+SpeakingAboutIntent	What she is speaking on later
+SpeakingAboutIntent	What {Speaker} is speaking on later
+SpeakingAboutIntent	What he was presenting on later
+SpeakingAboutIntent	What she was presenting on later
+SpeakingAboutIntent	What {Speaker} was presenting on later
+SpeakingAboutIntent	What he is presenting on later
+SpeakingAboutIntent	What she is presenting on later
+SpeakingAboutIntent	What {Speaker} is presenting on later
+SpeakingAboutIntent	What he was speaking about later
+SpeakingAboutIntent	What she was speaking about later
+SpeakingAboutIntent	What {Speaker} was speaking about later
+SpeakingAboutIntent	What he is speaking about later
+SpeakingAboutIntent	What she is speaking about later
+SpeakingAboutIntent	What {Speaker} is speaking about later
+SpeakingAboutIntent	What he was presenting about later
+SpeakingAboutIntent	What she was presenting about later
+SpeakingAboutIntent	What {Speaker} was presenting about later
+SpeakingAboutIntent	What he is presenting about later
+SpeakingAboutIntent	What she is presenting about later
+SpeakingAboutIntent	What {Speaker} is presenting about later
+SpeakingAboutIntent	What he was speaking at {Time}
+SpeakingAboutIntent	What she was speaking at {Time}
+SpeakingAboutIntent	What {Speaker} was speaking at {Time}
+SpeakingAboutIntent	What he is speaking at {Time}
+SpeakingAboutIntent	What she is speaking at {Time}
+SpeakingAboutIntent	What {Speaker} is speaking at {Time}
+SpeakingAboutIntent	What he was presenting at {Time}
+SpeakingAboutIntent	What she was presenting at {Time}
+SpeakingAboutIntent	What {Speaker} was presenting at {Time}
+SpeakingAboutIntent	What he is presenting at {Time}
+SpeakingAboutIntent	What she is presenting at {Time}
+SpeakingAboutIntent	What {Speaker} is presenting at {Time}
+SpeakingAboutIntent	What he was speaking on at {Time}
+SpeakingAboutIntent	What she was speaking on at {Time}
+SpeakingAboutIntent	What {Speaker} was speaking on at {Time}
+SpeakingAboutIntent	What he is speaking on at {Time}
+SpeakingAboutIntent	What she is speaking on at {Time}
+SpeakingAboutIntent	What {Speaker} is speaking on at {Time}
+SpeakingAboutIntent	What he was presenting on at {Time}
+SpeakingAboutIntent	What she was presenting on at {Time}
+SpeakingAboutIntent	What {Speaker} was presenting on at {Time}
+SpeakingAboutIntent	What he is presenting on at {Time}
+SpeakingAboutIntent	What she is presenting on at {Time}
+SpeakingAboutIntent	What {Speaker} is presenting on at {Time}
+SpeakingAboutIntent	What he was speaking about at {Time}
+SpeakingAboutIntent	What she was speaking about at {Time}
+SpeakingAboutIntent	What {Speaker} was speaking about at {Time}
+SpeakingAboutIntent	What he is speaking about at {Time}
+SpeakingAboutIntent	What she is speaking about at {Time}
+SpeakingAboutIntent	What {Speaker} is speaking about at {Time}
+SpeakingAboutIntent	What he was presenting about at {Time}
+SpeakingAboutIntent	What she was presenting about at {Time}
+SpeakingAboutIntent	What {Speaker} was presenting about at {Time}
+SpeakingAboutIntent	What he is presenting about at {Time}
+SpeakingAboutIntent	What she is presenting about at {Time}
+SpeakingAboutIntent	What {Speaker} is presenting about at {Time}
+SpeakingAboutIntent	What are they speaking on
+SpeakingAboutIntent	What are they presenting on
+SpeakingAboutIntent	What are they speaking about
+SpeakingAboutIntent	What are they presenting about
+SpeakingAboutIntent	What are they speaking on earlier
+SpeakingAboutIntent	What are they presenting on earlier
+SpeakingAboutIntent	What are they speaking about earlier
+SpeakingAboutIntent	What are they presenting about earlier
+SpeakingAboutIntent	What are they speaking on today
+SpeakingAboutIntent	What are they presenting on today
+SpeakingAboutIntent	What are they speaking about today
+SpeakingAboutIntent	What are they presenting about today
+SpeakingAboutIntent	What are they speaking on now
+SpeakingAboutIntent	What are they presenting on now
+SpeakingAboutIntent	What are they speaking about now
+SpeakingAboutIntent	What are they presenting about now
+SpeakingAboutIntent	What are they speaking on next
+SpeakingAboutIntent	What are they presenting on next
+SpeakingAboutIntent	What are they speaking about next
+SpeakingAboutIntent	What are they presenting about next
+SpeakingAboutIntent	What are they speaking on later
+SpeakingAboutIntent	What are they presenting on later
+SpeakingAboutIntent	What are they speaking about later
+SpeakingAboutIntent	What are they presenting about later
+SpeakingAboutIntent	What are they speaking on at {Time}
+SpeakingAboutIntent	What are they presenting on at {Time}
+SpeakingAboutIntent	What are they speaking about at {Time}
+SpeakingAboutIntent	What are they presenting about at {Time}
+SpeakingAboutIntent	Where was he speaking
+SpeakingAboutIntent	Where is he speaking
+SpeakingAboutIntent	Where was she speaking
+SpeakingAboutIntent	Where is she speaking
+SpeakingAboutIntent	Where was {Speaker} speaking
+SpeakingAboutIntent	Where is {Speaker} speaking
+SpeakingAboutIntent	Where was he presenting
+SpeakingAboutIntent	Where is he presenting
+SpeakingAboutIntent	Where was she presenting
+SpeakingAboutIntent	Where is she presenting
+SpeakingAboutIntent	Where was {Speaker} presenting
+SpeakingAboutIntent	Where is {Speaker} presenting
+SpeakingAboutIntent	Where was he speaking on
+SpeakingAboutIntent	Where is he speaking on
+SpeakingAboutIntent	Where was she speaking on
+SpeakingAboutIntent	Where is she speaking on
+SpeakingAboutIntent	Where was {Speaker} speaking on
+SpeakingAboutIntent	Where is {Speaker} speaking on
+SpeakingAboutIntent	Where was he presenting on
+SpeakingAboutIntent	Where is he presenting on
+SpeakingAboutIntent	Where was she presenting on
+SpeakingAboutIntent	Where is she presenting on
+SpeakingAboutIntent	Where was {Speaker} presenting on
+SpeakingAboutIntent	Where is {Speaker} presenting on
+SpeakingAboutIntent	Where was he speaking about
+SpeakingAboutIntent	Where is he speaking about
+SpeakingAboutIntent	Where was she speaking about
+SpeakingAboutIntent	Where is she speaking about
+SpeakingAboutIntent	Where was {Speaker} speaking about
+SpeakingAboutIntent	Where is {Speaker} speaking about
+SpeakingAboutIntent	Where was he presenting about
+SpeakingAboutIntent	Where is he presenting about
+SpeakingAboutIntent	Where was she presenting about
+SpeakingAboutIntent	Where is she presenting about
+SpeakingAboutIntent	Where was {Speaker} presenting about
+SpeakingAboutIntent	Where is {Speaker} presenting about
+SpeakingAboutIntent	Where was he speaking earlier
+SpeakingAboutIntent	Where is he speaking earlier
+SpeakingAboutIntent	Where was she speaking earlier
+SpeakingAboutIntent	Where is she speaking earlier
+SpeakingAboutIntent	Where was {Speaker} speaking earlier
+SpeakingAboutIntent	Where is {Speaker} speaking earlier
+SpeakingAboutIntent	Where was he presenting earlier
+SpeakingAboutIntent	Where is he presenting earlier
+SpeakingAboutIntent	Where was she presenting earlier
+SpeakingAboutIntent	Where is she presenting earlier
+SpeakingAboutIntent	Where was {Speaker} presenting earlier
+SpeakingAboutIntent	Where is {Speaker} presenting earlier
+SpeakingAboutIntent	Where was he speaking on earlier
+SpeakingAboutIntent	Where is he speaking on earlier
+SpeakingAboutIntent	Where was she speaking on earlier
+SpeakingAboutIntent	Where is she speaking on earlier
+SpeakingAboutIntent	Where was {Speaker} speaking on earlier
+SpeakingAboutIntent	Where is {Speaker} speaking on earlier
+SpeakingAboutIntent	Where was he presenting on earlier
+SpeakingAboutIntent	Where is he presenting on earlier
+SpeakingAboutIntent	Where was she presenting on earlier
+SpeakingAboutIntent	Where is she presenting on earlier
+SpeakingAboutIntent	Where was {Speaker} presenting on earlier
+SpeakingAboutIntent	Where is {Speaker} presenting on earlier
+SpeakingAboutIntent	Where was he speaking about earlier
+SpeakingAboutIntent	Where is he speaking about earlier
+SpeakingAboutIntent	Where was she speaking about earlier
+SpeakingAboutIntent	Where is she speaking about earlier
+SpeakingAboutIntent	Where was {Speaker} speaking about earlier
+SpeakingAboutIntent	Where is {Speaker} speaking about earlier
+SpeakingAboutIntent	Where was he presenting about earlier
+SpeakingAboutIntent	Where is he presenting about earlier
+SpeakingAboutIntent	Where was she presenting about earlier
+SpeakingAboutIntent	Where is she presenting about earlier
+SpeakingAboutIntent	Where was {Speaker} presenting about earlier
+SpeakingAboutIntent	Where is {Speaker} presenting about earlier
+SpeakingAboutIntent	Where was he speaking today
+SpeakingAboutIntent	Where is he speaking today
+SpeakingAboutIntent	Where was she speaking today
+SpeakingAboutIntent	Where is she speaking today
+SpeakingAboutIntent	Where was {Speaker} speaking today
+SpeakingAboutIntent	Where is {Speaker} speaking today
+SpeakingAboutIntent	Where was he presenting today
+SpeakingAboutIntent	Where is he presenting today
+SpeakingAboutIntent	Where was she presenting today
+SpeakingAboutIntent	Where is she presenting today
+SpeakingAboutIntent	Where was {Speaker} presenting today
+SpeakingAboutIntent	Where is {Speaker} presenting today
+SpeakingAboutIntent	Where was he speaking on today
+SpeakingAboutIntent	Where is he speaking on today
+SpeakingAboutIntent	Where was she speaking on today
+SpeakingAboutIntent	Where is she speaking on today
+SpeakingAboutIntent	Where was {Speaker} speaking on today
+SpeakingAboutIntent	Where is {Speaker} speaking on today
+SpeakingAboutIntent	Where was he presenting on today
+SpeakingAboutIntent	Where is he presenting on today
+SpeakingAboutIntent	Where was she presenting on today
+SpeakingAboutIntent	Where is she presenting on today
+SpeakingAboutIntent	Where was {Speaker} presenting on today
+SpeakingAboutIntent	Where is {Speaker} presenting on today
+SpeakingAboutIntent	Where was he speaking about today
+SpeakingAboutIntent	Where is he speaking about today
+SpeakingAboutIntent	Where was she speaking about today
+SpeakingAboutIntent	Where is she speaking about today
+SpeakingAboutIntent	Where was {Speaker} speaking about today
+SpeakingAboutIntent	Where is {Speaker} speaking about today
+SpeakingAboutIntent	Where was he presenting about today
+SpeakingAboutIntent	Where is he presenting about today
+SpeakingAboutIntent	Where was she presenting about today
+SpeakingAboutIntent	Where is she presenting about today
+SpeakingAboutIntent	Where was {Speaker} presenting about today
+SpeakingAboutIntent	Where is {Speaker} presenting about today
+SpeakingAboutIntent	Where was he speaking now
+SpeakingAboutIntent	Where is he speaking now
+SpeakingAboutIntent	Where was she speaking now
+SpeakingAboutIntent	Where is she speaking now
+SpeakingAboutIntent	Where was {Speaker} speaking now
+SpeakingAboutIntent	Where is {Speaker} speaking now
+SpeakingAboutIntent	Where was he presenting now
+SpeakingAboutIntent	Where is he presenting now
+SpeakingAboutIntent	Where was she presenting now
+SpeakingAboutIntent	Where is she presenting now
+SpeakingAboutIntent	Where was {Speaker} presenting now
+SpeakingAboutIntent	Where is {Speaker} presenting now
+SpeakingAboutIntent	Where was he speaking on now
+SpeakingAboutIntent	Where is he speaking on now
+SpeakingAboutIntent	Where was she speaking on now
+SpeakingAboutIntent	Where is she speaking on now
+SpeakingAboutIntent	Where was {Speaker} speaking on now
+SpeakingAboutIntent	Where is {Speaker} speaking on now
+SpeakingAboutIntent	Where was he presenting on now
+SpeakingAboutIntent	Where is he presenting on now
+SpeakingAboutIntent	Where was she presenting on now
+SpeakingAboutIntent	Where is she presenting on now
+SpeakingAboutIntent	Where was {Speaker} presenting on now
+SpeakingAboutIntent	Where is {Speaker} presenting on now
+SpeakingAboutIntent	Where was he speaking about now
+SpeakingAboutIntent	Where is he speaking about now
+SpeakingAboutIntent	Where was she speaking about now
+SpeakingAboutIntent	Where is she speaking about now
+SpeakingAboutIntent	Where was {Speaker} speaking about now
+SpeakingAboutIntent	Where is {Speaker} speaking about now
+SpeakingAboutIntent	Where was he presenting about now
+SpeakingAboutIntent	Where is he presenting about now
+SpeakingAboutIntent	Where was she presenting about now
+SpeakingAboutIntent	Where is she presenting about now
+SpeakingAboutIntent	Where was {Speaker} presenting about now
+SpeakingAboutIntent	Where is {Speaker} presenting about now
+SpeakingAboutIntent	Where was he speaking next
+SpeakingAboutIntent	Where is he speaking next
+SpeakingAboutIntent	Where was she speaking next
+SpeakingAboutIntent	Where is she speaking next
+SpeakingAboutIntent	Where was {Speaker} speaking next
+SpeakingAboutIntent	Where is {Speaker} speaking next
+SpeakingAboutIntent	Where was he presenting next
+SpeakingAboutIntent	Where is he presenting next
+SpeakingAboutIntent	Where was she presenting next
+SpeakingAboutIntent	Where is she presenting next
+SpeakingAboutIntent	Where was {Speaker} presenting next
+SpeakingAboutIntent	Where is {Speaker} presenting next
+SpeakingAboutIntent	Where was he speaking on next
+SpeakingAboutIntent	Where is he speaking on next
+SpeakingAboutIntent	Where was she speaking on next
+SpeakingAboutIntent	Where is she speaking on next
+SpeakingAboutIntent	Where was {Speaker} speaking on next
+SpeakingAboutIntent	Where is {Speaker} speaking on next
+SpeakingAboutIntent	Where was he presenting on next
+SpeakingAboutIntent	Where is he presenting on next
+SpeakingAboutIntent	Where was she presenting on next
+SpeakingAboutIntent	Where is she presenting on next
+SpeakingAboutIntent	Where was {Speaker} presenting on next
+SpeakingAboutIntent	Where is {Speaker} presenting on next
+SpeakingAboutIntent	Where was he speaking about next
+SpeakingAboutIntent	Where is he speaking about next
+SpeakingAboutIntent	Where was she speaking about next
+SpeakingAboutIntent	Where is she speaking about next
+SpeakingAboutIntent	Where was {Speaker} speaking about next
+SpeakingAboutIntent	Where is {Speaker} speaking about next
+SpeakingAboutIntent	Where was he presenting about next
+SpeakingAboutIntent	Where is he presenting about next
+SpeakingAboutIntent	Where was she presenting about next
+SpeakingAboutIntent	Where is she presenting about next
+SpeakingAboutIntent	Where was {Speaker} presenting about next
+SpeakingAboutIntent	Where is {Speaker} presenting about next
+SpeakingAboutIntent	Where was he speaking later
+SpeakingAboutIntent	Where is he speaking later
+SpeakingAboutIntent	Where was she speaking later
+SpeakingAboutIntent	Where is she speaking later
+SpeakingAboutIntent	Where was {Speaker} speaking later
+SpeakingAboutIntent	Where is {Speaker} speaking later
+SpeakingAboutIntent	Where was he presenting later
+SpeakingAboutIntent	Where is he presenting later
+SpeakingAboutIntent	Where was she presenting later
+SpeakingAboutIntent	Where is she presenting later
+SpeakingAboutIntent	Where was {Speaker} presenting later
+SpeakingAboutIntent	Where is {Speaker} presenting later
+SpeakingAboutIntent	Where was he speaking on later
+SpeakingAboutIntent	Where is he speaking on later
+SpeakingAboutIntent	Where was she speaking on later
+SpeakingAboutIntent	Where is she speaking on later
+SpeakingAboutIntent	Where was {Speaker} speaking on later
+SpeakingAboutIntent	Where is {Speaker} speaking on later
+SpeakingAboutIntent	Where was he presenting on later
+SpeakingAboutIntent	Where is he presenting on later
+SpeakingAboutIntent	Where was she presenting on later
+SpeakingAboutIntent	Where is she presenting on later
+SpeakingAboutIntent	Where was {Speaker} presenting on later
+SpeakingAboutIntent	Where is {Speaker} presenting on later
+SpeakingAboutIntent	Where was he speaking about later
+SpeakingAboutIntent	Where is he speaking about later
+SpeakingAboutIntent	Where was she speaking about later
+SpeakingAboutIntent	Where is she speaking about later
+SpeakingAboutIntent	Where was {Speaker} speaking about later
+SpeakingAboutIntent	Where is {Speaker} speaking about later
+SpeakingAboutIntent	Where was he presenting about later
+SpeakingAboutIntent	Where is he presenting about later
+SpeakingAboutIntent	Where was she presenting about later
+SpeakingAboutIntent	Where is she presenting about later
+SpeakingAboutIntent	Where was {Speaker} presenting about later
+SpeakingAboutIntent	Where is {Speaker} presenting about later
+SpeakingAboutIntent	Where was he speaking at {Time}
+SpeakingAboutIntent	Where is he speaking at {Time}
+SpeakingAboutIntent	Where was she speaking at {Time}
+SpeakingAboutIntent	Where is she speaking at {Time}
+SpeakingAboutIntent	Where was {Speaker} speaking at {Time}
+SpeakingAboutIntent	Where is {Speaker} speaking at {Time}
+SpeakingAboutIntent	Where was he presenting at {Time}
+SpeakingAboutIntent	Where is he presenting at {Time}
+SpeakingAboutIntent	Where was she presenting at {Time}
+SpeakingAboutIntent	Where is she presenting at {Time}
+SpeakingAboutIntent	Where was {Speaker} presenting at {Time}
+SpeakingAboutIntent	Where is {Speaker} presenting at {Time}
+SpeakingAboutIntent	Where was he speaking on at {Time}
+SpeakingAboutIntent	Where is he speaking on at {Time}
+SpeakingAboutIntent	Where was she speaking on at {Time}
+SpeakingAboutIntent	Where is she speaking on at {Time}
+SpeakingAboutIntent	Where was {Speaker} speaking on at {Time}
+SpeakingAboutIntent	Where is {Speaker} speaking on at {Time}
+SpeakingAboutIntent	Where was he presenting on at {Time}
+SpeakingAboutIntent	Where is he presenting on at {Time}
+SpeakingAboutIntent	Where was she presenting on at {Time}
+SpeakingAboutIntent	Where is she presenting on at {Time}
+SpeakingAboutIntent	Where was {Speaker} presenting on at {Time}
+SpeakingAboutIntent	Where is {Speaker} presenting on at {Time}
+SpeakingAboutIntent	Where was he speaking about at {Time}
+SpeakingAboutIntent	Where is he speaking about at {Time}
+SpeakingAboutIntent	Where was she speaking about at {Time}
+SpeakingAboutIntent	Where is she speaking about at {Time}
+SpeakingAboutIntent	Where was {Speaker} speaking about at {Time}
+SpeakingAboutIntent	Where is {Speaker} speaking about at {Time}
+SpeakingAboutIntent	Where was he presenting about at {Time}
+SpeakingAboutIntent	Where is he presenting about at {Time}
+SpeakingAboutIntent	Where was she presenting about at {Time}
+SpeakingAboutIntent	Where is she presenting about at {Time}
+SpeakingAboutIntent	Where was {Speaker} presenting about at {Time}
+SpeakingAboutIntent	Where is {Speaker} presenting about at {Time}
+SpeakingAboutIntent	Where he was speaking
+SpeakingAboutIntent	Where she was speaking
+SpeakingAboutIntent	Where {Speaker} was speaking
+SpeakingAboutIntent	Where he is speaking
+SpeakingAboutIntent	Where she is speaking
+SpeakingAboutIntent	Where {Speaker} is speaking
+SpeakingAboutIntent	Where he was presenting
+SpeakingAboutIntent	Where she was presenting
+SpeakingAboutIntent	Where {Speaker} was presenting
+SpeakingAboutIntent	Where he is presenting
+SpeakingAboutIntent	Where she is presenting
+SpeakingAboutIntent	Where {Speaker} is presenting
+SpeakingAboutIntent	Where he was speaking on
+SpeakingAboutIntent	Where she was speaking on
+SpeakingAboutIntent	Where {Speaker} was speaking on
+SpeakingAboutIntent	Where he is speaking on
+SpeakingAboutIntent	Where she is speaking on
+SpeakingAboutIntent	Where {Speaker} is speaking on
+SpeakingAboutIntent	Where he was presenting on
+SpeakingAboutIntent	Where she was presenting on
+SpeakingAboutIntent	Where {Speaker} was presenting on
+SpeakingAboutIntent	Where he is presenting on
+SpeakingAboutIntent	Where she is presenting on
+SpeakingAboutIntent	Where {Speaker} is presenting on
+SpeakingAboutIntent	Where he was speaking about
+SpeakingAboutIntent	Where she was speaking about
+SpeakingAboutIntent	Where {Speaker} was speaking about
+SpeakingAboutIntent	Where he is speaking about
+SpeakingAboutIntent	Where she is speaking about
+SpeakingAboutIntent	Where {Speaker} is speaking about
+SpeakingAboutIntent	Where he was presenting about
+SpeakingAboutIntent	Where she was presenting about
+SpeakingAboutIntent	Where {Speaker} was presenting about
+SpeakingAboutIntent	Where he is presenting about
+SpeakingAboutIntent	Where she is presenting about
+SpeakingAboutIntent	Where {Speaker} is presenting about
+SpeakingAboutIntent	Where he was speaking earlier
+SpeakingAboutIntent	Where she was speaking earlier
+SpeakingAboutIntent	Where {Speaker} was speaking earlier
+SpeakingAboutIntent	Where he is speaking earlier
+SpeakingAboutIntent	Where she is speaking earlier
+SpeakingAboutIntent	Where {Speaker} is speaking earlier
+SpeakingAboutIntent	Where he was presenting earlier
+SpeakingAboutIntent	Where she was presenting earlier
+SpeakingAboutIntent	Where {Speaker} was presenting earlier
+SpeakingAboutIntent	Where he is presenting earlier
+SpeakingAboutIntent	Where she is presenting earlier
+SpeakingAboutIntent	Where {Speaker} is presenting earlier
+SpeakingAboutIntent	Where he was speaking on earlier
+SpeakingAboutIntent	Where she was speaking on earlier
+SpeakingAboutIntent	Where {Speaker} was speaking on earlier
+SpeakingAboutIntent	Where he is speaking on earlier
+SpeakingAboutIntent	Where she is speaking on earlier
+SpeakingAboutIntent	Where {Speaker} is speaking on earlier
+SpeakingAboutIntent	Where he was presenting on earlier
+SpeakingAboutIntent	Where she was presenting on earlier
+SpeakingAboutIntent	Where {Speaker} was presenting on earlier
+SpeakingAboutIntent	Where he is presenting on earlier
+SpeakingAboutIntent	Where she is presenting on earlier
+SpeakingAboutIntent	Where {Speaker} is presenting on earlier
+SpeakingAboutIntent	Where he was speaking about earlier
+SpeakingAboutIntent	Where she was speaking about earlier
+SpeakingAboutIntent	Where {Speaker} was speaking about earlier
+SpeakingAboutIntent	Where he is speaking about earlier
+SpeakingAboutIntent	Where she is speaking about earlier
+SpeakingAboutIntent	Where {Speaker} is speaking about earlier
+SpeakingAboutIntent	Where he was presenting about earlier
+SpeakingAboutIntent	Where she was presenting about earlier
+SpeakingAboutIntent	Where {Speaker} was presenting about earlier
+SpeakingAboutIntent	Where he is presenting about earlier
+SpeakingAboutIntent	Where she is presenting about earlier
+SpeakingAboutIntent	Where {Speaker} is presenting about earlier
+SpeakingAboutIntent	Where he was speaking today
+SpeakingAboutIntent	Where she was speaking today
+SpeakingAboutIntent	Where {Speaker} was speaking today
+SpeakingAboutIntent	Where he is speaking today
+SpeakingAboutIntent	Where she is speaking today
+SpeakingAboutIntent	Where {Speaker} is speaking today
+SpeakingAboutIntent	Where he was presenting today
+SpeakingAboutIntent	Where she was presenting today
+SpeakingAboutIntent	Where {Speaker} was presenting today
+SpeakingAboutIntent	Where he is presenting today
+SpeakingAboutIntent	Where she is presenting today
+SpeakingAboutIntent	Where {Speaker} is presenting today
+SpeakingAboutIntent	Where he was speaking on today
+SpeakingAboutIntent	Where she was speaking on today
+SpeakingAboutIntent	Where {Speaker} was speaking on today
+SpeakingAboutIntent	Where he is speaking on today
+SpeakingAboutIntent	Where she is speaking on today
+SpeakingAboutIntent	Where {Speaker} is speaking on today
+SpeakingAboutIntent	Where he was presenting on today
+SpeakingAboutIntent	Where she was presenting on today
+SpeakingAboutIntent	Where {Speaker} was presenting on today
+SpeakingAboutIntent	Where he is presenting on today
+SpeakingAboutIntent	Where she is presenting on today
+SpeakingAboutIntent	Where {Speaker} is presenting on today
+SpeakingAboutIntent	Where he was speaking about today
+SpeakingAboutIntent	Where she was speaking about today
+SpeakingAboutIntent	Where {Speaker} was speaking about today
+SpeakingAboutIntent	Where he is speaking about today
+SpeakingAboutIntent	Where she is speaking about today
+SpeakingAboutIntent	Where {Speaker} is speaking about today
+SpeakingAboutIntent	Where he was presenting about today
+SpeakingAboutIntent	Where she was presenting about today
+SpeakingAboutIntent	Where {Speaker} was presenting about today
+SpeakingAboutIntent	Where he is presenting about today
+SpeakingAboutIntent	Where she is presenting about today
+SpeakingAboutIntent	Where {Speaker} is presenting about today
+SpeakingAboutIntent	Where he was speaking now
+SpeakingAboutIntent	Where she was speaking now
+SpeakingAboutIntent	Where {Speaker} was speaking now
+SpeakingAboutIntent	Where he is speaking now
+SpeakingAboutIntent	Where she is speaking now
+SpeakingAboutIntent	Where {Speaker} is speaking now
+SpeakingAboutIntent	Where he was presenting now
+SpeakingAboutIntent	Where she was presenting now
+SpeakingAboutIntent	Where {Speaker} was presenting now
+SpeakingAboutIntent	Where he is presenting now
+SpeakingAboutIntent	Where she is presenting now
+SpeakingAboutIntent	Where {Speaker} is presenting now
+SpeakingAboutIntent	Where he was speaking on now
+SpeakingAboutIntent	Where she was speaking on now
+SpeakingAboutIntent	Where {Speaker} was speaking on now
+SpeakingAboutIntent	Where he is speaking on now
+SpeakingAboutIntent	Where she is speaking on now
+SpeakingAboutIntent	Where {Speaker} is speaking on now
+SpeakingAboutIntent	Where he was presenting on now
+SpeakingAboutIntent	Where she was presenting on now
+SpeakingAboutIntent	Where {Speaker} was presenting on now
+SpeakingAboutIntent	Where he is presenting on now
+SpeakingAboutIntent	Where she is presenting on now
+SpeakingAboutIntent	Where {Speaker} is presenting on now
+SpeakingAboutIntent	Where he was speaking about now
+SpeakingAboutIntent	Where she was speaking about now
+SpeakingAboutIntent	Where {Speaker} was speaking about now
+SpeakingAboutIntent	Where he is speaking about now
+SpeakingAboutIntent	Where she is speaking about now
+SpeakingAboutIntent	Where {Speaker} is speaking about now
+SpeakingAboutIntent	Where he was presenting about now
+SpeakingAboutIntent	Where she was presenting about now
+SpeakingAboutIntent	Where {Speaker} was presenting about now
+SpeakingAboutIntent	Where he is presenting about now
+SpeakingAboutIntent	Where she is presenting about now
+SpeakingAboutIntent	Where {Speaker} is presenting about now
+SpeakingAboutIntent	Where he was speaking next
+SpeakingAboutIntent	Where she was speaking next
+SpeakingAboutIntent	Where {Speaker} was speaking next
+SpeakingAboutIntent	Where he is speaking next
+SpeakingAboutIntent	Where she is speaking next
+SpeakingAboutIntent	Where {Speaker} is speaking next
+SpeakingAboutIntent	Where he was presenting next
+SpeakingAboutIntent	Where she was presenting next
+SpeakingAboutIntent	Where {Speaker} was presenting next
+SpeakingAboutIntent	Where he is presenting next
+SpeakingAboutIntent	Where she is presenting next
+SpeakingAboutIntent	Where {Speaker} is presenting next
+SpeakingAboutIntent	Where he was speaking on next
+SpeakingAboutIntent	Where she was speaking on next
+SpeakingAboutIntent	Where {Speaker} was speaking on next
+SpeakingAboutIntent	Where he is speaking on next
+SpeakingAboutIntent	Where she is speaking on next
+SpeakingAboutIntent	Where {Speaker} is speaking on next
+SpeakingAboutIntent	Where he was presenting on next
+SpeakingAboutIntent	Where she was presenting on next
+SpeakingAboutIntent	Where {Speaker} was presenting on next
+SpeakingAboutIntent	Where he is presenting on next
+SpeakingAboutIntent	Where she is presenting on next
+SpeakingAboutIntent	Where {Speaker} is presenting on next
+SpeakingAboutIntent	Where he was speaking about next
+SpeakingAboutIntent	Where she was speaking about next
+SpeakingAboutIntent	Where {Speaker} was speaking about next
+SpeakingAboutIntent	Where he is speaking about next
+SpeakingAboutIntent	Where she is speaking about next
+SpeakingAboutIntent	Where {Speaker} is speaking about next
+SpeakingAboutIntent	Where he was presenting about next
+SpeakingAboutIntent	Where she was presenting about next
+SpeakingAboutIntent	Where {Speaker} was presenting about next
+SpeakingAboutIntent	Where he is presenting about next
+SpeakingAboutIntent	Where she is presenting about next
+SpeakingAboutIntent	Where {Speaker} is presenting about next
+SpeakingAboutIntent	Where he was speaking later
+SpeakingAboutIntent	Where she was speaking later
+SpeakingAboutIntent	Where {Speaker} was speaking later
+SpeakingAboutIntent	Where he is speaking later
+SpeakingAboutIntent	Where she is speaking later
+SpeakingAboutIntent	Where {Speaker} is speaking later
+SpeakingAboutIntent	Where he was presenting later
+SpeakingAboutIntent	Where she was presenting later
+SpeakingAboutIntent	Where {Speaker} was presenting later
+SpeakingAboutIntent	Where he is presenting later
+SpeakingAboutIntent	Where she is presenting later
+SpeakingAboutIntent	Where {Speaker} is presenting later
+SpeakingAboutIntent	Where he was speaking on later
+SpeakingAboutIntent	Where she was speaking on later
+SpeakingAboutIntent	Where {Speaker} was speaking on later
+SpeakingAboutIntent	Where he is speaking on later
+SpeakingAboutIntent	Where she is speaking on later
+SpeakingAboutIntent	Where {Speaker} is speaking on later
+SpeakingAboutIntent	Where he was presenting on later
+SpeakingAboutIntent	Where she was presenting on later
+SpeakingAboutIntent	Where {Speaker} was presenting on later
+SpeakingAboutIntent	Where he is presenting on later
+SpeakingAboutIntent	Where she is presenting on later
+SpeakingAboutIntent	Where {Speaker} is presenting on later
+SpeakingAboutIntent	Where he was speaking about later
+SpeakingAboutIntent	Where she was speaking about later
+SpeakingAboutIntent	Where {Speaker} was speaking about later
+SpeakingAboutIntent	Where he is speaking about later
+SpeakingAboutIntent	Where she is speaking about later
+SpeakingAboutIntent	Where {Speaker} is speaking about later
+SpeakingAboutIntent	Where he was presenting about later
+SpeakingAboutIntent	Where she was presenting about later
+SpeakingAboutIntent	Where {Speaker} was presenting about later
+SpeakingAboutIntent	Where he is presenting about later
+SpeakingAboutIntent	Where she is presenting about later
+SpeakingAboutIntent	Where {Speaker} is presenting about later
+SpeakingAboutIntent	Where he was speaking at {Time}
+SpeakingAboutIntent	Where she was speaking at {Time}
+SpeakingAboutIntent	Where {Speaker} was speaking at {Time}
+SpeakingAboutIntent	Where he is speaking at {Time}
+SpeakingAboutIntent	Where she is speaking at {Time}
+SpeakingAboutIntent	Where {Speaker} is speaking at {Time}
+SpeakingAboutIntent	Where he was presenting at {Time}
+SpeakingAboutIntent	Where she was presenting at {Time}
+SpeakingAboutIntent	Where {Speaker} was presenting at {Time}
+SpeakingAboutIntent	Where he is presenting at {Time}
+SpeakingAboutIntent	Where she is presenting at {Time}
+SpeakingAboutIntent	Where {Speaker} is presenting at {Time}
+SpeakingAboutIntent	Where he was speaking on at {Time}
+SpeakingAboutIntent	Where she was speaking on at {Time}
+SpeakingAboutIntent	Where {Speaker} was speaking on at {Time}
+SpeakingAboutIntent	Where he is speaking on at {Time}
+SpeakingAboutIntent	Where she is speaking on at {Time}
+SpeakingAboutIntent	Where {Speaker} is speaking on at {Time}
+SpeakingAboutIntent	Where he was presenting on at {Time}
+SpeakingAboutIntent	Where she was presenting on at {Time}
+SpeakingAboutIntent	Where {Speaker} was presenting on at {Time}
+SpeakingAboutIntent	Where he is presenting on at {Time}
+SpeakingAboutIntent	Where she is presenting on at {Time}
+SpeakingAboutIntent	Where {Speaker} is presenting on at {Time}
+SpeakingAboutIntent	Where he was speaking about at {Time}
+SpeakingAboutIntent	Where she was speaking about at {Time}
+SpeakingAboutIntent	Where {Speaker} was speaking about at {Time}
+SpeakingAboutIntent	Where he is speaking about at {Time}
+SpeakingAboutIntent	Where she is speaking about at {Time}
+SpeakingAboutIntent	Where {Speaker} is speaking about at {Time}
+SpeakingAboutIntent	Where he was presenting about at {Time}
+SpeakingAboutIntent	Where she was presenting about at {Time}
+SpeakingAboutIntent	Where {Speaker} was presenting about at {Time}
+SpeakingAboutIntent	Where he is presenting about at {Time}
+SpeakingAboutIntent	Where she is presenting about at {Time}
+SpeakingAboutIntent	Where {Speaker} is presenting about at {Time}
+SpeakingAboutIntent	What time was he speaking
+SpeakingAboutIntent	What time is he speaking
+SpeakingAboutIntent	What time was she speaking
+SpeakingAboutIntent	What time is she speaking
+SpeakingAboutIntent	What time was {Speaker} speaking
+SpeakingAboutIntent	What time is {Speaker} speaking
+SpeakingAboutIntent	What time was he presenting
+SpeakingAboutIntent	What time is he presenting
+SpeakingAboutIntent	What time was she presenting
+SpeakingAboutIntent	What time is she presenting
+SpeakingAboutIntent	What time was {Speaker} presenting
+SpeakingAboutIntent	What time is {Speaker} presenting
+SpeakingAboutIntent	What time was he speaking earlier
+SpeakingAboutIntent	What time is he speaking earlier
+SpeakingAboutIntent	What time was she speaking earlier
+SpeakingAboutIntent	What time is she speaking earlier
+SpeakingAboutIntent	What time was {Speaker} speaking earlier
+SpeakingAboutIntent	What time is {Speaker} speaking earlier
+SpeakingAboutIntent	What time was he presenting earlier
+SpeakingAboutIntent	What time is he presenting earlier
+SpeakingAboutIntent	What time was she presenting earlier
+SpeakingAboutIntent	What time is she presenting earlier
+SpeakingAboutIntent	What time was {Speaker} presenting earlier
+SpeakingAboutIntent	What time is {Speaker} presenting earlier
+SpeakingAboutIntent	What time was he speaking today
+SpeakingAboutIntent	What time is he speaking today
+SpeakingAboutIntent	What time was she speaking today
+SpeakingAboutIntent	What time is she speaking today
+SpeakingAboutIntent	What time was {Speaker} speaking today
+SpeakingAboutIntent	What time is {Speaker} speaking today
+SpeakingAboutIntent	What time was he presenting today
+SpeakingAboutIntent	What time is he presenting today
+SpeakingAboutIntent	What time was she presenting today
+SpeakingAboutIntent	What time is she presenting today
+SpeakingAboutIntent	What time was {Speaker} presenting today
+SpeakingAboutIntent	What time is {Speaker} presenting today
+SpeakingAboutIntent	What time was he speaking now
+SpeakingAboutIntent	What time is he speaking now
+SpeakingAboutIntent	What time was she speaking now
+SpeakingAboutIntent	What time is she speaking now
+SpeakingAboutIntent	What time was {Speaker} speaking now
+SpeakingAboutIntent	What time is {Speaker} speaking now
+SpeakingAboutIntent	What time was he presenting now
+SpeakingAboutIntent	What time is he presenting now
+SpeakingAboutIntent	What time was she presenting now
+SpeakingAboutIntent	What time is she presenting now
+SpeakingAboutIntent	What time was {Speaker} presenting now
+SpeakingAboutIntent	What time is {Speaker} presenting now
+SpeakingAboutIntent	What time was he speaking next
+SpeakingAboutIntent	What time is he speaking next
+SpeakingAboutIntent	What time was she speaking next
+SpeakingAboutIntent	What time is she speaking next
+SpeakingAboutIntent	What time was {Speaker} speaking next
+SpeakingAboutIntent	What time is {Speaker} speaking next
+SpeakingAboutIntent	What time was he presenting next
+SpeakingAboutIntent	What time is he presenting next
+SpeakingAboutIntent	What time was she presenting next
+SpeakingAboutIntent	What time is she presenting next
+SpeakingAboutIntent	What time was {Speaker} presenting next
+SpeakingAboutIntent	What time is {Speaker} presenting next
+SpeakingAboutIntent	What time was he speaking later
+SpeakingAboutIntent	What time is he speaking later
+SpeakingAboutIntent	What time was she speaking later
+SpeakingAboutIntent	What time is she speaking later
+SpeakingAboutIntent	What time was {Speaker} speaking later
+SpeakingAboutIntent	What time is {Speaker} speaking later
+SpeakingAboutIntent	What time was he presenting later
+SpeakingAboutIntent	What time is he presenting later
+SpeakingAboutIntent	What time was she presenting later
+SpeakingAboutIntent	What time is she presenting later
+SpeakingAboutIntent	What time was {Speaker} presenting later
+SpeakingAboutIntent	What time is {Speaker} presenting later
+RoomTimeIntent	What is at {Room}
+RoomTimeIntent	What's at {Room}
+RoomTimeIntent	What session was in {Room} at {Time}
+RoomTimeIntent	Which session was in {Room} at {Time}
+RoomTimeIntent	What presentation was in {Room} at {Time}
+RoomTimeIntent	Which presentation was in {Room} at {Time}
+RoomTimeIntent	What session is in {Room} at {Time}
+RoomTimeIntent	Which session is in {Room} at {Time}
+RoomTimeIntent	What presentation is in {Room} at {Time}
+RoomTimeIntent	Which presentation is in {Room} at {Time}
+RoomTimeIntent	What session was in room {Room} at {Time}
+RoomTimeIntent	Which session was in room {Room} at {Time}
+RoomTimeIntent	What presentation was in room {Room} at {Time}
+RoomTimeIntent	Which presentation was in room {Room} at {Time}
+RoomTimeIntent	What session is in room {Room} at {Time}
+RoomTimeIntent	Which session is in room {Room} at {Time}
+RoomTimeIntent	What presentation is in room {Room} at {Time}
+RoomTimeIntent	Which presentation is in room {Room} at {Time}
+RoomTimeIntent	What session were in {Room}
+RoomTimeIntent	Which session were in {Room}
+RoomTimeIntent	What presentation were in {Room}
+RoomTimeIntent	Which presentation were in {Room}
+RoomTimeIntent	What sessions were in {Room}
+RoomTimeIntent	Which sessions were in {Room}
+RoomTimeIntent	What presentations were in {Room}
+RoomTimeIntent	Which presentations were in {Room}
+RoomTimeIntent	What session are in {Room}
+RoomTimeIntent	Which session are in {Room}
+RoomTimeIntent	What presentation are in {Room}
+RoomTimeIntent	Which presentation are in {Room}
+RoomTimeIntent	What sessions are in {Room}
+RoomTimeIntent	Which sessions are in {Room}
+RoomTimeIntent	What presentations are in {Room}
+RoomTimeIntent	Which presentations are in {Room}
+RoomTimeIntent	What session were in room {Room}
+RoomTimeIntent	Which session were in room {Room}
+RoomTimeIntent	What presentation were in room {Room}
+RoomTimeIntent	Which presentation were in room {Room}
+RoomTimeIntent	What sessions were in room {Room}
+RoomTimeIntent	Which sessions were in room {Room}
+RoomTimeIntent	What presentations were in room {Room}
+RoomTimeIntent	Which presentations were in room {Room}
+RoomTimeIntent	What session are in room {Room}
+RoomTimeIntent	Which session are in room {Room}
+RoomTimeIntent	What presentation are in room {Room}
+RoomTimeIntent	Which presentation are in room {Room}
+RoomTimeIntent	What sessions are in room {Room}
+RoomTimeIntent	Which sessions are in room {Room}
+RoomTimeIntent	What presentations are in room {Room}
+RoomTimeIntent	Which presentations are in room {Room}
+RoomTimeIntent	What session were at {Time}
+RoomTimeIntent	Which session were at {Time}
+RoomTimeIntent	What presentation were at {Time}
+RoomTimeIntent	Which presentation were at {Time}
+RoomTimeIntent	What sessions were at {Time}
+RoomTimeIntent	Which sessions were at {Time}
+RoomTimeIntent	What presentations were at {Time}
+RoomTimeIntent	Which presentations were at {Time}
+RoomTimeIntent	What session are at {Time}
+RoomTimeIntent	Which session are at {Time}
+RoomTimeIntent	What presentation are at {Time}
+RoomTimeIntent	Which presentation are at {Time}
+RoomTimeIntent	What sessions are at {Time}
+RoomTimeIntent	Which sessions are at {Time}
+RoomTimeIntent	What presentations are at {Time}
+RoomTimeIntent	Which presentations are at {Time}
+RoomTimeIntent	What is the session in {Room}
+RoomTimeIntent	What's the session in {Room}
+RoomTimeIntent	What is the next session in {Room}
+RoomTimeIntent	What's the next session in {Room}
+RoomTimeIntent	What is the presentation in {Room}
+RoomTimeIntent	What's the presentation in {Room}
+RoomTimeIntent	What is the next presentation in {Room}
+RoomTimeIntent	What's the next presentation in {Room}
+RoomTimeIntent	What is the sessions in {Room}
+RoomTimeIntent	What's the sessions in {Room}
+RoomTimeIntent	What is the next sessions in {Room}
+RoomTimeIntent	What's the next sessions in {Room}
+RoomTimeIntent	What is the presentations in {Room}
+RoomTimeIntent	What's the presentations in {Room}
+RoomTimeIntent	What is the next presentations in {Room}
+RoomTimeIntent	What's the next presentations in {Room}
+RoomTimeIntent	What is the session at {Time}
+RoomTimeIntent	What's the session at {Time}
+RoomTimeIntent	What is the next session at {Time}
+RoomTimeIntent	What's the next session at {Time}
+RoomTimeIntent	What is the presentation at {Time}
+RoomTimeIntent	What's the presentation at {Time}
+RoomTimeIntent	What is the next presentation at {Time}
+RoomTimeIntent	What's the next presentation at {Time}
+RoomTimeIntent	What is the sessions at {Time}
+RoomTimeIntent	What's the sessions at {Time}
+RoomTimeIntent	What is the next sessions at {Time}
+RoomTimeIntent	What's the next sessions at {Time}
+RoomTimeIntent	What is the presentations at {Time}
+RoomTimeIntent	What's the presentations at {Time}
+RoomTimeIntent	What is the next presentations at {Time}
+RoomTimeIntent	What's the next presentations at {Time}
+RoomTimeIntent	What is in {Room}
+RoomTimeIntent	What's in {Room}
+RoomTimeIntent	What is in {Room} at {Time}
+RoomTimeIntent	What's in {Room} at {Time}
+RoomTimeIntent	What is at {Time}
+RoomTimeIntent	What's at {Time}
+TimeIntent	What is the time of the next session
+TimeIntent	What time is the next session
+TimeIntent	What is the time of the next presentation
+TimeIntent	What time is the next presentation
+TimeIntent	What time the next session is
+TimeIntent	What time the next presentation is
+SessionIntent	Are there any presentation on {Session}
+SessionIntent	Are there any session on {Session}
+SessionIntent	Are there any presentations on {Session}
+SessionIntent	Are there any sessions on {Session}
+SessionIntent	Are there any presentation about {Session}
+SessionIntent	Are there any session about {Session}
+SessionIntent	Are there any presentations about {Session}
+SessionIntent	Are there any sessions about {Session}
+SessionIntent	What presentation is on {Session}
+SessionIntent	What session is on {Session}
+SessionIntent	What presentations is on {Session}
+SessionIntent	What sessions is on {Session}
+SessionIntent	What presentation are on {Session}
+SessionIntent	What session are on {Session}
+SessionIntent	What presentations are on {Session}
+SessionIntent	What sessions are on {Session}
+SessionIntent	What presentation is about {Session}
+SessionIntent	What session is about {Session}
+SessionIntent	What presentations is about {Session}
+SessionIntent	What sessions is about {Session}
+SessionIntent	What presentation are about {Session}
+SessionIntent	What session are about {Session}
+SessionIntent	What presentations are about {Session}
+SessionIntent	What sessions are about {Session}
+SessionIntent	Find presentation on {Session}
+SessionIntent	Find session on {Session}
+SessionIntent	Find presentations on {Session}
+SessionIntent	Find sessions on {Session}
+SessionIntent	Find presentation about {Session}
+SessionIntent	Find session about {Session}
+SessionIntent	Find presentations about {Session}
+SessionIntent	Find sessions about {Session}
+SessionIntent	Give presentation on {Session}
+SessionIntent	Tell presentation on {Session}
+SessionIntent	Show presentation on {Session}
+SessionIntent	Say presentation on {Session}
+SessionIntent	Give me presentation on {Session}
+SessionIntent	Tell me presentation on {Session}
+SessionIntent	Show me presentation on {Session}
+SessionIntent	Say me presentation on {Session}
+SessionIntent	Give about presentation on {Session}
+SessionIntent	Tell about presentation on {Session}
+SessionIntent	Show about presentation on {Session}
+SessionIntent	Say about presentation on {Session}
+SessionIntent	Give me about presentation on {Session}
+SessionIntent	Tell me about presentation on {Session}
+SessionIntent	Show me about presentation on {Session}
+SessionIntent	Say me about presentation on {Session}
+SessionIntent	Give session on {Session}
+SessionIntent	Tell session on {Session}
+SessionIntent	Show session on {Session}
+SessionIntent	Say session on {Session}
+SessionIntent	Give me session on {Session}
+SessionIntent	Tell me session on {Session}
+SessionIntent	Show me session on {Session}
+SessionIntent	Say me session on {Session}
+SessionIntent	Give about session on {Session}
+SessionIntent	Tell about session on {Session}
+SessionIntent	Show about session on {Session}
+SessionIntent	Say about session on {Session}
+SessionIntent	Give me about session on {Session}
+SessionIntent	Tell me about session on {Session}
+SessionIntent	Show me about session on {Session}
+SessionIntent	Say me about session on {Session}
+SessionIntent	Give presentations on {Session}
+SessionIntent	Tell presentations on {Session}
+SessionIntent	Show presentations on {Session}
+SessionIntent	Say presentations on {Session}
+SessionIntent	Give me presentations on {Session}
+SessionIntent	Tell me presentations on {Session}
+SessionIntent	Show me presentations on {Session}
+SessionIntent	Say me presentations on {Session}
+SessionIntent	Give about presentations on {Session}
+SessionIntent	Tell about presentations on {Session}
+SessionIntent	Show about presentations on {Session}
+SessionIntent	Say about presentations on {Session}
+SessionIntent	Give me about presentations on {Session}
+SessionIntent	Tell me about presentations on {Session}
+SessionIntent	Show me about presentations on {Session}
+SessionIntent	Say me about presentations on {Session}
+SessionIntent	Give sessions on {Session}
+SessionIntent	Tell sessions on {Session}
+SessionIntent	Show sessions on {Session}
+SessionIntent	Say sessions on {Session}
+SessionIntent	Give me sessions on {Session}
+SessionIntent	Tell me sessions on {Session}
+SessionIntent	Show me sessions on {Session}
+SessionIntent	Say me sessions on {Session}
+SessionIntent	Give about sessions on {Session}
+SessionIntent	Tell about sessions on {Session}
+SessionIntent	Show about sessions on {Session}
+SessionIntent	Say about sessions on {Session}
+SessionIntent	Give me about sessions on {Session}
+SessionIntent	Tell me about sessions on {Session}
+SessionIntent	Show me about sessions on {Session}
+SessionIntent	Say me about sessions on {Session}
+SessionIntent	Give presentation about {Session}
+SessionIntent	Tell presentation about {Session}
+SessionIntent	Show presentation about {Session}
+SessionIntent	Say presentation about {Session}
+SessionIntent	Give me presentation about {Session}
+SessionIntent	Tell me presentation about {Session}
+SessionIntent	Show me presentation about {Session}
+SessionIntent	Say me presentation about {Session}
+SessionIntent	Give about presentation about {Session}
+SessionIntent	Tell about presentation about {Session}
+SessionIntent	Show about presentation about {Session}
+SessionIntent	Say about presentation about {Session}
+SessionIntent	Give me about presentation about {Session}
+SessionIntent	Tell me about presentation about {Session}
+SessionIntent	Show me about presentation about {Session}
+SessionIntent	Say me about presentation about {Session}
+SessionIntent	Give session about {Session}
+SessionIntent	Tell session about {Session}
+SessionIntent	Show session about {Session}
+SessionIntent	Say session about {Session}
+SessionIntent	Give me session about {Session}
+SessionIntent	Tell me session about {Session}
+SessionIntent	Show me session about {Session}
+SessionIntent	Say me session about {Session}
+SessionIntent	Give about session about {Session}
+SessionIntent	Tell about session about {Session}
+SessionIntent	Show about session about {Session}
+SessionIntent	Say about session about {Session}
+SessionIntent	Give me about session about {Session}
+SessionIntent	Tell me about session about {Session}
+SessionIntent	Show me about session about {Session}
+SessionIntent	Say me about session about {Session}
+SessionIntent	Give presentations about {Session}
+SessionIntent	Tell presentations about {Session}
+SessionIntent	Show presentations about {Session}
+SessionIntent	Say presentations about {Session}
+SessionIntent	Give me presentations about {Session}
+SessionIntent	Tell me presentations about {Session}
+SessionIntent	Show me presentations about {Session}
+SessionIntent	Say me presentations about {Session}
+SessionIntent	Give about presentations about {Session}
+SessionIntent	Tell about presentations about {Session}
+SessionIntent	Show about presentations about {Session}
+SessionIntent	Say about presentations about {Session}
+SessionIntent	Give me about presentations about {Session}
+SessionIntent	Tell me about presentations about {Session}
+SessionIntent	Show me about presentations about {Session}
+SessionIntent	Say me about presentations about {Session}
+SessionIntent	Give sessions about {Session}
+SessionIntent	Tell sessions about {Session}
+SessionIntent	Show sessions about {Session}
+SessionIntent	Say sessions about {Session}
+SessionIntent	Give me sessions about {Session}
+SessionIntent	Tell me sessions about {Session}
+SessionIntent	Show me sessions about {Session}
+SessionIntent	Say me sessions about {Session}
+SessionIntent	Give about sessions about {Session}
+SessionIntent	Tell about sessions about {Session}
+SessionIntent	Show about sessions about {Session}
+SessionIntent	Say about sessions about {Session}
+SessionIntent	Give me about sessions about {Session}
+SessionIntent	Tell me about sessions about {Session}
+SessionIntent	Show me about sessions about {Session}
+SessionIntent	Say me about sessions about {Session}
+SessionIntent	Give presentation matching {Session}
+SessionIntent	Tell presentation matching {Session}
+SessionIntent	Show presentation matching {Session}
+SessionIntent	Say presentation matching {Session}
+SessionIntent	Give me presentation matching {Session}
+SessionIntent	Tell me presentation matching {Session}
+SessionIntent	Show me presentation matching {Session}
+SessionIntent	Say me presentation matching {Session}
+SessionIntent	Give about presentation matching {Session}
+SessionIntent	Tell about presentation matching {Session}
+SessionIntent	Show about presentation matching {Session}
+SessionIntent	Say about presentation matching {Session}
+SessionIntent	Give me about presentation matching {Session}
+SessionIntent	Tell me about presentation matching {Session}
+SessionIntent	Show me about presentation matching {Session}
+SessionIntent	Say me about presentation matching {Session}
+SessionIntent	Give session matching {Session}
+SessionIntent	Tell session matching {Session}
+SessionIntent	Show session matching {Session}
+SessionIntent	Say session matching {Session}
+SessionIntent	Give me session matching {Session}
+SessionIntent	Tell me session matching {Session}
+SessionIntent	Show me session matching {Session}
+SessionIntent	Say me session matching {Session}
+SessionIntent	Give about session matching {Session}
+SessionIntent	Tell about session matching {Session}
+SessionIntent	Show about session matching {Session}
+SessionIntent	Say about session matching {Session}
+SessionIntent	Give me about session matching {Session}
+SessionIntent	Tell me about session matching {Session}
+SessionIntent	Show me about session matching {Session}
+SessionIntent	Say me about session matching {Session}
+SessionIntent	Give presentations matching {Session}
+SessionIntent	Tell presentations matching {Session}
+SessionIntent	Show presentations matching {Session}
+SessionIntent	Say presentations matching {Session}
+SessionIntent	Give me presentations matching {Session}
+SessionIntent	Tell me presentations matching {Session}
+SessionIntent	Show me presentations matching {Session}
+SessionIntent	Say me presentations matching {Session}
+SessionIntent	Give about presentations matching {Session}
+SessionIntent	Tell about presentations matching {Session}
+SessionIntent	Show about presentations matching {Session}
+SessionIntent	Say about presentations matching {Session}
+SessionIntent	Give me about presentations matching {Session}
+SessionIntent	Tell me about presentations matching {Session}
+SessionIntent	Show me about presentations matching {Session}
+SessionIntent	Say me about presentations matching {Session}
+SessionIntent	Give sessions matching {Session}
+SessionIntent	Tell sessions matching {Session}
+SessionIntent	Show sessions matching {Session}
+SessionIntent	Say sessions matching {Session}
+SessionIntent	Give me sessions matching {Session}
+SessionIntent	Tell me sessions matching {Session}
+SessionIntent	Show me sessions matching {Session}
+SessionIntent	Say me sessions matching {Session}
+SessionIntent	Give about sessions matching {Session}
+SessionIntent	Tell about sessions matching {Session}
+SessionIntent	Show about sessions matching {Session}
+SessionIntent	Say about sessions matching {Session}
+SessionIntent	Give me about sessions matching {Session}
+SessionIntent	Tell me about sessions matching {Session}
+SessionIntent	Show me about sessions matching {Session}
+SessionIntent	Say me about sessions matching {Session}
+SessionIntent	Give presentation like {Session}
+SessionIntent	Tell presentation like {Session}
+SessionIntent	Show presentation like {Session}
+SessionIntent	Say presentation like {Session}
+SessionIntent	Give me presentation like {Session}
+SessionIntent	Tell me presentation like {Session}
+SessionIntent	Show me presentation like {Session}
+SessionIntent	Say me presentation like {Session}
+SessionIntent	Give about presentation like {Session}
+SessionIntent	Tell about presentation like {Session}
+SessionIntent	Show about presentation like {Session}
+SessionIntent	Say about presentation like {Session}
+SessionIntent	Give me about presentation like {Session}
+SessionIntent	Tell me about presentation like {Session}
+SessionIntent	Show me about presentation like {Session}
+SessionIntent	Say me about presentation like {Session}
+SessionIntent	Give session like {Session}
+SessionIntent	Tell session like {Session}
+SessionIntent	Show session like {Session}
+SessionIntent	Say session like {Session}
+SessionIntent	Give me session like {Session}
+SessionIntent	Tell me session like {Session}
+SessionIntent	Show me session like {Session}
+SessionIntent	Say me session like {Session}
+SessionIntent	Give about session like {Session}
+SessionIntent	Tell about session like {Session}
+SessionIntent	Show about session like {Session}
+SessionIntent	Say about session like {Session}
+SessionIntent	Give me about session like {Session}
+SessionIntent	Tell me about session like {Session}
+SessionIntent	Show me about session like {Session}
+SessionIntent	Say me about session like {Session}
+SessionIntent	Give presentations like {Session}
+SessionIntent	Tell presentations like {Session}
+SessionIntent	Show presentations like {Session}
+SessionIntent	Say presentations like {Session}
+SessionIntent	Give me presentations like {Session}
+SessionIntent	Tell me presentations like {Session}
+SessionIntent	Show me presentations like {Session}
+SessionIntent	Say me presentations like {Session}
+SessionIntent	Give about presentations like {Session}
+SessionIntent	Tell about presentations like {Session}
+SessionIntent	Show about presentations like {Session}
+SessionIntent	Say about presentations like {Session}
+SessionIntent	Give me about presentations like {Session}
+SessionIntent	Tell me about presentations like {Session}
+SessionIntent	Show me about presentations like {Session}
+SessionIntent	Say me about presentations like {Session}
+SessionIntent	Give sessions like {Session}
+SessionIntent	Tell sessions like {Session}
+SessionIntent	Show sessions like {Session}
+SessionIntent	Say sessions like {Session}
+SessionIntent	Give me sessions like {Session}
+SessionIntent	Tell me sessions like {Session}
+SessionIntent	Show me sessions like {Session}
+SessionIntent	Say me sessions like {Session}
+SessionIntent	Give about sessions like {Session}
+SessionIntent	Tell about sessions like {Session}
+SessionIntent	Show about sessions like {Session}
+SessionIntent	Say about sessions like {Session}
+SessionIntent	Give me about sessions like {Session}
+SessionIntent	Tell me about sessions like {Session}
+SessionIntent	Show me about sessions like {Session}
+SessionIntent	Say me about sessions like {Session}
+SessionIntent	Give presentation similar to {Session}
+SessionIntent	Tell presentation similar to {Session}
+SessionIntent	Show presentation similar to {Session}
+SessionIntent	Say presentation similar to {Session}
+SessionIntent	Give me presentation similar to {Session}
+SessionIntent	Tell me presentation similar to {Session}
+SessionIntent	Show me presentation similar to {Session}
+SessionIntent	Say me presentation similar to {Session}
+SessionIntent	Give about presentation similar to {Session}
+SessionIntent	Tell about presentation similar to {Session}
+SessionIntent	Show about presentation similar to {Session}
+SessionIntent	Say about presentation similar to {Session}
+SessionIntent	Give me about presentation similar to {Session}
+SessionIntent	Tell me about presentation similar to {Session}
+SessionIntent	Show me about presentation similar to {Session}
+SessionIntent	Say me about presentation similar to {Session}
+SessionIntent	Give session similar to {Session}
+SessionIntent	Tell session similar to {Session}
+SessionIntent	Show session similar to {Session}
+SessionIntent	Say session similar to {Session}
+SessionIntent	Give me session similar to {Session}
+SessionIntent	Tell me session similar to {Session}
+SessionIntent	Show me session similar to {Session}
+SessionIntent	Say me session similar to {Session}
+SessionIntent	Give about session similar to {Session}
+SessionIntent	Tell about session similar to {Session}
+SessionIntent	Show about session similar to {Session}
+SessionIntent	Say about session similar to {Session}
+SessionIntent	Give me about session similar to {Session}
+SessionIntent	Tell me about session similar to {Session}
+SessionIntent	Show me about session similar to {Session}
+SessionIntent	Say me about session similar to {Session}
+SessionIntent	Give presentations similar to {Session}
+SessionIntent	Tell presentations similar to {Session}
+SessionIntent	Show presentations similar to {Session}
+SessionIntent	Say presentations similar to {Session}
+SessionIntent	Give me presentations similar to {Session}
+SessionIntent	Tell me presentations similar to {Session}
+SessionIntent	Show me presentations similar to {Session}
+SessionIntent	Say me presentations similar to {Session}
+SessionIntent	Give about presentations similar to {Session}
+SessionIntent	Tell about presentations similar to {Session}
+SessionIntent	Show about presentations similar to {Session}
+SessionIntent	Say about presentations similar to {Session}
+SessionIntent	Give me about presentations similar to {Session}
+SessionIntent	Tell me about presentations similar to {Session}
+SessionIntent	Show me about presentations similar to {Session}
+SessionIntent	Say me about presentations similar to {Session}
+SessionIntent	Give sessions similar to {Session}
+SessionIntent	Tell sessions similar to {Session}
+SessionIntent	Show sessions similar to {Session}
+SessionIntent	Say sessions similar to {Session}
+SessionIntent	Give me sessions similar to {Session}
+SessionIntent	Tell me sessions similar to {Session}
+SessionIntent	Show me sessions similar to {Session}
+SessionIntent	Say me sessions similar to {Session}
+SessionIntent	Give about sessions similar to {Session}
+SessionIntent	Tell about sessions similar to {Session}
+SessionIntent	Show about sessions similar to {Session}
+SessionIntent	Say about sessions similar to {Session}
+SessionIntent	Give me about sessions similar to {Session}
+SessionIntent	Tell me about sessions similar to {Session}
+SessionIntent	Show me about sessions similar to {Session}
+SessionIntent	Say me about sessions similar to {Session}
+ListSpeakersByBadgeIntent	Which Speaker is {Badge}
+ListSpeakersByBadgeIntent	What Speaker is {Badge}
+ListSpeakersByBadgeIntent	Which Presenter is {Badge}
+ListSpeakersByBadgeIntent	What Presenter is {Badge}
+ListSpeakersByBadgeIntent	Which Speakers is {Badge}
+ListSpeakersByBadgeIntent	What Speakers is {Badge}
+ListSpeakersByBadgeIntent	Which Presenters is {Badge}
+ListSpeakersByBadgeIntent	What Presenters is {Badge}
+ListSpeakersByBadgeIntent	Which Speaker are {Badge}
+ListSpeakersByBadgeIntent	What Speaker are {Badge}
+ListSpeakersByBadgeIntent	Which Presenter are {Badge}
+ListSpeakersByBadgeIntent	What Presenter are {Badge}
+ListSpeakersByBadgeIntent	Which Speakers are {Badge}
+ListSpeakersByBadgeIntent	What Speakers are {Badge}
+ListSpeakersByBadgeIntent	Which Presenters are {Badge}
+ListSpeakersByBadgeIntent	What Presenters are {Badge}
+ListSpeakersByBadgeIntent	Which Speaker from {Badge}
+ListSpeakersByBadgeIntent	What Speaker from {Badge}
+ListSpeakersByBadgeIntent	Which Presenter from {Badge}
+ListSpeakersByBadgeIntent	What Presenter from {Badge}
+ListSpeakersByBadgeIntent	Which Speakers from {Badge}
+ListSpeakersByBadgeIntent	What Speakers from {Badge}
+ListSpeakersByBadgeIntent	Which Presenters from {Badge}
+ListSpeakersByBadgeIntent	What Presenters from {Badge}
+ListSpeakersByBadgeIntent	List {Badge}
+ListSpeakersByBadgeIntent	List all {Badge}
+ListSpeakersByBadgeIntent	List {Badge} Speakers
+ListSpeakersByBadgeIntent	List all {Badge} Speakers
+ListSpeakersByBadgeIntent	List {Badge} Presenters
+ListSpeakersByBadgeIntent	List all {Badge} Presenters
+ListSpeakersByBadgeIntent	Who are {Badge}
+ListSpeakersByBadgeIntent	Who are the {Badge}
+ListSpeakersByBadgeIntent	Who are {Badge} Speakers
+ListSpeakersByBadgeIntent	Who are the {Badge} Speakers
+ListSpeakersByBadgeIntent	Who are {Badge} Presenters
+ListSpeakersByBadgeIntent	Who are the {Badge} Presenters
+ListSpeakersByBadgeIntent	Who is from {Badge}
+ListSpeakersByBadgeIntent	Who here is from {Badge}
+ListSpeakersByBadgeIntent	Who are from {Badge}
+ListSpeakersByBadgeIntent	Who here are from {Badge}

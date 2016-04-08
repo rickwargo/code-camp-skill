@@ -1,0 +1,112 @@
+{
+  "intents": [
+    {
+      "intent": "AboutSpeakerIntent",
+      "slots": [
+        {
+          "name": "Speaker",
+          "type": "LIST_OF_SPEAKERS"
+        }
+      ]
+    },
+    {
+      "intent": "ChooseSpeakerIntent",
+      "slots": [
+        {
+          "name": "Speaker",
+          "type": "LIST_OF_SPEAKERS"
+        }
+      ]
+    },
+    {
+      "intent": "IsSpeakerHereIntent",
+      "slots": [
+        {
+          "name": "Speaker",
+          "type": "LIST_OF_SPEAKERS"
+        }
+      ]
+    },
+    {
+      "intent": "SpeakingAboutIntent",
+      "slots": [
+        {
+          "name": "Speaker",
+          "type": "LIST_OF_SPEAKERS"
+        },
+        {
+          "name": "Time",
+          "type": "LIST_OF_TIMES"
+        }
+      ]
+    },
+    {
+      "intent": "RoomTimeIntent",
+      "slots": [
+        {
+          "name": "Room",
+          "type": "LIST_OF_ROOMS"
+        },
+        {
+          "name": "Time",
+          "type": "LIST_OF_TIMES"
+        }
+      ]
+    },
+    {
+      "intent": "TimeIntent",
+      "slots": [
+        {
+          "name": "Time",
+          "type": "LIST_OF_TIMES"
+        }
+      ]
+    },
+    {
+      "intent": "SessionIntent",
+      "slots": [
+        {
+          "name": "Session",
+          "type": "LIST_OF_SESSIONS"
+        }
+      ]
+    },
+    {
+      "intent": "ListSpeakersByBadgeIntent",
+      "slots": [
+        {
+          "name": "Badge",
+          "type": "LIST_OF_BADGES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.YesIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.NoIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.RepeatIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StartOverIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    }
+  ]
+}
