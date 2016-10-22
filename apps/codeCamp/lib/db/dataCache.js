@@ -19,7 +19,8 @@ var AWS = require('aws-sdk'),
     Config = require('../../config/lambda-config'),
     WhichCamp = require('../helper/whichCamp'),
     Text = require('../helper/text'),
-    timesEqual = require('../helper/timesEqual');
+    timesEqual = require('../helper/timesEqual'),
+    Output = require('../helper/output');
 
 var dynamodbDoc = new AWS.DynamoDB.DocumentClient();
 promise.promisifyAll(Object.getPrototypeOf(dynamodbDoc), {suffix: '_Async'});
@@ -35,14 +36,16 @@ var dataCache = {
             return null;
         }
 
-        return dynamodbDoc.query_Async({
+        return dynamodbDoc.scan_Async({
             TableName: Config.namespace + 'SpeakerNames',
             ProjectionExpression: 'fullnames',
-            KeyConditions: {
-                name: {
-                    ComparisonOperator: 'EQ',
-                    AttributeValueList: [ name.toLowerCase() ]
-                }
+            FilterExpression: '#name = :name and which = :which',
+            ExpressionAttributeValues: {
+                ":name": name.toLowerCase(),
+                ":which": WhichCamp
+            },
+            ExpressionAttributeNames: {
+                "#name": "name"
             }
         }).then(function (data) {
             var value = [];
@@ -111,6 +114,9 @@ var dataCache = {
             return null;
         }
 
+        // Perform session name mappings
+        phrase = phrase.toLowerCase().replace('dot net', '.net');
+
         return dynamodbDoc.scan_Async({
             TableName: Config.namespace + 'CodeCamp',
             ProjectionExpression: 'session_time, speaker, session_name, room',
@@ -128,6 +134,7 @@ var dataCache = {
             if (data.Count > 0) {
                 for (i = 0; i < data.Count; i += 1) {
                     value += 'At ' + data.Items[i].session_time + ', ' + data.Items[i].speaker + ' is presenting ' + data.Items[i].session_name + '. ';
+                    Output.log('<session> ' + data.Items[i].session_name.toLowerCase());
                 }
             } else {
                 value = Text.sessionsNotFound(phrase);
@@ -139,43 +146,39 @@ var dataCache = {
         });
     },
 
-    // // Step 2: Code it -- returns the session info for the given session
-    // //  copy from getSessionsMatching and then modify as needed
-    // getSessionInfosMatching: function (phrase) {
-    //     if (!phrase) {
-    //         console.log(Text.nothingToFind);
-    //         return null;
-    //     }
-    //
-    //     // NOTE: DynamoDBDocument library is not build on promises. The promisifyAll call at the top of the file
-    //     //  promisifies each call and appends the function name with `_Async'.
-    //     return dynamodbDoc.scan_Async({
-    //         // NOTE: Config.namespace is helpful when coding multiple application and the logic is similar. This splits the
-    //         //  tables by "namespace"
-    //         TableName: Config.namespace + 'CodeCamp',
-    //         ProjectionExpression: 'session_info',
-    //         FilterExpression: 'contains(session_name_match, :session_name) and which = :which', // NOTE: case-sensitive comparison on *_match column
-    //         ExpressionAttributeValues: {
-    //             ":session_name": phrase.toLowerCase(),
-    //             ":which": WhichCamp
-    //         }
-    //     }).then(function (data) {
-    //         var value = '';
-    //
-    //         // NOTE: Left as an exercise to handle more than one matching session
-    //         //   Hint: requires session state, a new Intent, and .shouldEndSession(false);
-    //         if (data.Count > 0) {
-    //             value += data.Items[0].session_info;
-    //         } else {
-    //             value = Text.sessionsNotFound(phrase);
-    //         }
-    //         return value.trim();
-    //         // }).catch(function (err) {
-    //         //     console.error('getSessionsMatching dynamoDB Error:', err.message);
-    //     });
-    // },
-    //
-    // // Step 3: Run test -- gulp test-local. Remember that it will fail, even if written correctly.
+    getSessionInfosMatching: function (phrase) {
+        if (!phrase) {
+            console.log(Text.nothingToFind);
+            return null;
+        }
+
+        // NOTE: DynamoDBDocument library is not build on promises. The promisifyAll call at the top of the file
+        //  promisifies each call and appends the function name with `_Async'.
+        return dynamodbDoc.scan_Async({
+            // NOTE: Config.namespace is helpful when coding multiple application and the logic is similar. This splits the
+            //  tables by "namespace"
+            TableName: Config.namespace + 'CodeCamp',
+            ProjectionExpression: 'session_info',
+            FilterExpression: 'contains(session_name_match, :session_name) and which = :which', // NOTE: case-sensitive comparison on *_match column
+            ExpressionAttributeValues: {
+                ":session_name": phrase.toLowerCase(),
+                ":which": WhichCamp
+            }
+        }).then(function (data) {
+            var value = '';
+
+            // NOTE: Left as an exercise to handle more than one matching session
+            //   Hint: requires session state, a new Intent, and .shouldEndSession(false);
+            if (data.Count > 0) {
+                value += data.Items[0].session_info;
+            } else {
+                value = Text.sessionsNotFound(phrase);
+            }
+            return value.trim();
+        }).catch(function (err) {
+            console.error('getSessionsMatching dynamoDB Error:', err.message);
+        });
+    },
 
     getRoomPresentations: function (room, time) {
         if (!room) {
@@ -270,11 +273,13 @@ var dataCache = {
                     if (!time || timesEqual(time, data.Items[i].session_time)) {
                         found = true;
                         value += 'At ' + data.Items[i].session_time + ' in room ' + data.Items[i].room + ', ' + data.Items[i].speaker + ' is presenting ' + data.Items[i].session_name + '. ';
+                        Output.log('<session> ' + data.Items[i].session_name.toLowerCase());
                     }
                 }
                 if (!found && time) {
                     value += speaker + ' is not speaking at ' + time + '.';
                 }
+                Output.log('<speaker> ' + speaker.toLowerCase());
             } else {
                 value = Text.speakerNotFound(speaker);
             }
@@ -306,6 +311,7 @@ var dataCache = {
             }
             if (data.Count > 0) {
                 value += (data.Items !== undefined && data.Items[0].speaker_about) ? data.Items[0].speaker_about : Text.profileNotUpdated(speaker);
+                Output.log('<speaker> ' + speaker.toLowerCase());
             } else {
                 value = Text.speakerNotFound(speaker);
             }
@@ -331,6 +337,7 @@ var dataCache = {
                 ":which": WhichCamp
             }
         }).then(function (data) {
+            Output.log('<speaker> ' + speaker.toLowerCase());
             return data.Items;
         // }).catch(function (err) {
         //     console.error('getSessionsForSpeaker dynamoDB Error:', err.message);
@@ -368,6 +375,38 @@ var dataCache = {
         // }).catch(function (err) {
         //     console.error('findSpeakersByBadge dynamoDB Error:', err.message);
         });
+    // },
+    //
+    // Step 4: Get the answer from DynamoDB (assume data is there)
+    // findMostPopularSpeaker: function () {
+    //     return dynamodbDoc.scan_Async({
+    //         TableName: Config.namespace + 'ActivityLog',
+    //         ProjectionExpression: 'What',
+    //         FilterExpression: 'begins_with(What, :speaker) and Which = :which',
+    //         ExpressionAttributeValues: {
+    //             ":speaker": "<speaker>",
+    //             ":which": WhichCamp
+    //         }
+    //     }).then(function (data) {
+    //         var i, names = {}, speaker, name, max_occurrences = 0;
+    //         for (i = 0; i < data.Count; i += 1) {
+    //             speaker = data.Items[i].What.substring(10);
+    //             if (names[speaker] === undefined) {
+    //                 names[speaker] = 1;
+    //             } else {
+    //                 names[speaker] += 1;
+    //             }
+    //         }
+    //         for (name in names) {
+    //             if (names.hasOwnProperty(name)) {
+    //                 if (names[name] > max_occurrences) {
+    //                     max_occurrences = names[name];
+    //                     speaker = name;
+    //                 }
+    //             }
+    //         }
+    //         return [speaker, max_occurrences];
+    //     });
     }
 };
 

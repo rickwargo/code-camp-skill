@@ -32,7 +32,7 @@ var sessionIntentFuncs = {
 
         return getSessionsMatching(session)
             .then(function (val) { return Output.say(val, request, response, endSession); })
-            .then(function (val) { return Output.log(val, request, response); });
+            .then(function (val) { return Output.log('[Session] ' + val, request, response); });
             // .catch(function (err) { return Output.error(err, response); });
     }
 };

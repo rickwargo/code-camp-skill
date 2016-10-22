@@ -19,10 +19,16 @@ var DynamoDB = require('./dynamodb'),
     Text = require('./text');
 
 var outputFuncs = {
-    log: function (msg, request, response) {
-        if (!process.env.SERVER || process.env.SERVER !== 'Local') {    // Don't log in active development mode
-            DynamoDB.log(msg, request.sessionDetails.userId);
+    log: function (msg, request) {
+        var userId = 'unknown';
+        if (request) {
+            userId = request.sessionDetails.userId;
         }
+        if (msg) {
+            DynamoDB.log(msg, userId);
+        }
+
+        return msg;
     },
 
     // Careful not to clobber the response object!
@@ -31,18 +37,20 @@ var outputFuncs = {
             endSession = true;
         }
         it = it || Text.nothingToFind;
-
+        var say_it = it.replace(/\.[Nn][Ee][Tt]/g, ' dot net');  // Help Alexa say dot net better
         response
-            .say(it)
+            .say(say_it)
             .card(Config.applicationName, it)
             .shouldEndSession(endSession);
+        return it;
     },
 
     error: function (err, response) {
-        return response
+        response
             .say(Text.failedResponse)
             .card('Problem', Text.failedResponse + "\n\nError: " + err.message)
             .shouldEndSession(true);
+        return Text.failedResponse;
     }
 
 };

@@ -64,14 +64,14 @@ var roomTimeIntentFuncs = {
             return getRoom(room)
                 .then(getRoomPresentations)
                 .then(function (val) { return Output.say(val, request, response, endSession); })
-                .then(function (val) { return Output.log(val, request, response); });
+                .then(function (val) { return Output.log('[RoomTime] ' + val, request, response); });
                 // .catch(function (err) { return Output.error(err, response); });
         }
         if (time) {
             return getTime(time)
                 .then(getTimePresentations)
                 .then(function (val) { return Output.say(val, request, response, endSession); })
-                .then(function (val) { return Output.log(val, request, response); });
+                .then(function (val) { return Output.log('[RoomTime] ' + val, request, response); });
                 // .catch(function (err) { return Output.error(err, response); });
         }
     }

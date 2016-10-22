@@ -24,7 +24,7 @@ var ssml = {
         //TODO: make sure all attribute values are surrounded by "..."
         var ssml_str = '<speak>' + current_ssml + (current_ssml === '' ? '' : ' ') + str + '</speak>';
 
-        return ssml_str.replace(/  +/, ' ');
+        return ssml_str.replace(/  +/, ' ').replace(/&/g, ' and ');
     }
     ,
     cleanse: function (str) {

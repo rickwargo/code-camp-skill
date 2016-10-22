@@ -30,13 +30,13 @@ var badgeIntentFuncs = {
         function speakerListByBadge(badge) {
             return Cache.findSpeakersByBadge(badge)
                 .then(function (list) {
-                    return Text.speakersWithBadge(badge) + Text.join(list, 'speaker', 'and') + '.';
+                    return Text.speakersWithBadge(badge, list);
                 });
         }
 
         return speakerListByBadge(badge)
             .then(function (val) { return Output.say(val, request, response); })
-            .then(function (val) { return Output.log(val, request, response); });
+            .then(function (val) { return Output.log('[ListSpeakersByBadge] ' + val, request, response); });
             // .catch(function (err) { return Output.error(err, response); });
     }
 };

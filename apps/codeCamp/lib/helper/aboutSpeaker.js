@@ -45,14 +45,16 @@ var aboutSpeakerIntentFuncs = {
         function isHereOrRefineList(list) {
             response.session('refine.list', 0);
 
-            if (list.length === 0) {                    // Return the about for the speaker
+            if (list.length === 0) {                     // Return the about for the speaker
                 //response.session('Speaker', '');       // Speaker is not here
                 return Text.isNotHere(speaker);
             }
 
-            if (list.length === 1) {                    // Return the about for the speaker
-                response.session('Speaker', list[0]);    // Save for later speaker context
-                return Cache.getSessionsForSpeaker(list[0])
+            if (list.length === 1) {                     // Return the about for the speaker
+                var spkr = list[0];
+                response.session('Speaker', spkr);       // Save for later speaker context
+                Output.log('<speaker> ' + spkr.toLowerCase(), request);
+                return Cache.getSessionsForSpeaker(spkr)
                     .then(whenAndWhere);
             }
 
@@ -66,7 +68,7 @@ var aboutSpeakerIntentFuncs = {
         return getSpeakerName(speaker)
             .then(isHereOrRefineList)
             .then(function (val) { return Output.say(val, request, response, endSession); })
-            .then(function (val) { return Output.log(val, request, response); });
+            .then(function (val) { return Output.log('[IsSpeakerHere] ' + val, request); });
             // .catch(function (err) { return Output.error(err, response); });
     },
 
@@ -88,8 +90,10 @@ var aboutSpeakerIntentFuncs = {
             }
 
             if (list.length === 1) {                    // Return the about for the speaker
-                response.session('Speaker', list[0]);   // Save for later speaker context
-                return Cache.getAboutForSpeaker(list[0]);
+                var spkr = list[0];
+                response.session('Speaker', spkr);      // Save for later speaker context
+                Output.log('<speaker> ' + spkr.toLowerCase(), request);
+                return Cache.getAboutForSpeaker(spkr);
             }
 
             // need to ask which name the user wants
@@ -102,7 +106,7 @@ var aboutSpeakerIntentFuncs = {
         return getSpeakerName(speaker)
             .then(getAboutForSpeakerOrRefineList)
             .then(function (val) { return Output.say(val, request, response, endSession); })
-            .then(function (val) { return Output.log(val, request, response); });
+            .then(function (val) { return Output.log('[AboutSpeaker] ' + val, request, response); });
             // .catch(function (err) { return Output.error(err, response); });
     }
 };

@@ -161,11 +161,11 @@ describe('getting presentation speaker information', function () {
                 slots: {
                     Speaker: {
                         name: 'Speaker',
-                        value: 'brian'
+                        value: 'David'
                     }
                 }
             });
-            return result.should.eventually.match(/, or brian/i);
+            return result.should.eventually.match(/, or David/i);
         });
     });
 
@@ -176,7 +176,7 @@ describe('getting presentation speaker information', function () {
             // This would be invoked with the full, matching name of the speaker. In this case, the
             // answer should be yes, and it should present info on the speaker topic(s).
             var supplement = function (payload) {
-                payload.session.attributes.$Referrer = 'IsSpeakerHereIntent';
+                payload.session.attributes.$Intent = 'IsSpeakerHereIntent';
             },
                 result = request.intentRequest({
                     name: 'ChooseSpeakerIntent',
@@ -200,11 +200,11 @@ describe('sessions', function () {
                 slots: {
                     Speaker: {
                         name: 'Speaker',
-                        value: 'atley'
+                        value: 'Ross'
                     }
                 }
             });
-            return result.should.eventually.match(/strafford(\W|\w|\s)+A Successful App – A Primer/i);
+            return result.should.eventually.match(/At 10:00am in room Berwyn, Rich Ross is presenting Let['’]s Build a Bot/i);
         });
     });
 
@@ -223,7 +223,7 @@ describe('sessions', function () {
                     }
                 }
             });
-            return result.should.eventually.match(/merion(\W|\w|\s)+how to look cool to your kid/i);
+            return result.should.eventually.match(/paoli(\W|\w|\s)+how to create an alexa skill/i);
         });
     });
 
@@ -258,7 +258,7 @@ describe('sessions', function () {
                         }
                     }
                 });
-                return result.should.eventually.match(/Minecraft(\W|\w|\s)+Functional Compiler/i);
+                return result.should.eventually.match(/Microsoft Cognitive AI(\W|\w|\s)+Anyone can build games on Xbox One/i);
             });
 
             it('should respond with the presentations at the given time in that room', function () {
@@ -275,7 +275,7 @@ describe('sessions', function () {
                         }
                     }
                 });
-                return result.should.eventually.match(/Ember\.js 2\.0 and ASP\.NET Integration\.<\/speak/i);
+                return result.should.eventually.match(/Your Web Applications Never Felt So Good/i);
             });
 
             it('should respond with a message about the room cannot be found', function () {
@@ -318,7 +318,7 @@ describe('sessions', function () {
                         }
                     }
                 });
-                return result.should.eventually.match(/Ember\.js 2\.0 and ASP\.NET Integration\./i);
+                return result.should.eventually.match(/Wynnewood, Brent Schooley is presenting A Swift Introduction to Swift 3/i);
             });
         });
     });
@@ -334,7 +334,7 @@ describe('sessions', function () {
                     }
                 }
             });
-            return result.should.eventually.match(/mpr2/i);
+            return result.should.eventually.match(/mpr1/i);
         });
     });
 
@@ -355,41 +355,49 @@ describe('sessions', function () {
     });
 
     describe('session-related queries', function () {
-        describe('any sessions about Minecraft', function () {
+        describe('any sessions about Alexa', function () {
             it('should respond with information about session', function () {
                 var result = request.intentRequest({
                     name: 'SessionIntent',
                     slots: {
                         Session: {
                             name: 'Session',
-                            value: 'Minecraft'
+                            value: 'Alexa'
                         }
                     }
                 });
-                return result.should.eventually.match(/Minecraft/i);
+                return result.should.eventually.match(/Alexa/i);
             });
         });
     });
 });
 
-// // Step 1: Write the test and run `gulp test-local`
-// // Step 2: Implement the code
-//
-// // New Test for SessionInfo Intent
-// describe('session information', function () {
-//     it('should respond with information about a session', function () {
+describe('session information', function () {
+    it('should respond with information about a session', function () {
+        var result = request.intentRequest({
+            name: 'SessionInfoIntent',
+            slots: {
+                SessionName: {
+                    name: 'SessionName',
+                    value: 'Monitoring in Meatspace'
+                }
+            }
+        });
+
+        return result.should.eventually.match(/alert us when things go clunk/i);
+    });
+});
+
+// Step 1: Write the test and run `gulp test-local`
+
+// describe('reports', function () {
+//     it('should respond with the most popular speaker', function () {
 //         var result = request.intentRequest({
-//             name: 'SessionInfoIntent',              // This is a new intent and we will have to populate everything.
-//             slots: {
-//                 SessionName: {
-//                     name: 'SessionName',
-//                     value: 'Cool Gadgets with IOT'
-//                 }
-//             }
+//             name: 'MostPopularSpeakerIntent'              // This is a new intent and we will have to populate everything.
 //         });
 //
 //         // I like to make it fail even when the code is correct so I can ensure I have the right test
-//         return result.should.eventually.match(/demo some cool ways you can use Rasberry Pi/i);
+//         return result.should.eventually.match(/The most popular speaker is XXX/i);
 //     });
 // });
 

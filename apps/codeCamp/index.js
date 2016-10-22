@@ -16,7 +16,7 @@ var Alexa = require('./vendor/alexa-app'),
     TimeHelpers = require('./lib/helper/time'),
     SessionHelpers = require('./lib/helper/session'),
     SessionInfoHelpers = require('./lib/helper/sessionInfo'),
-    // SessionStore = require('./lib/db/sessionStore'),
+    ReportHelpers = require('./lib/helper/report'),
     Text = require('./lib/helper/text');
 
 // Define an alexa-app
@@ -111,7 +111,10 @@ alexaApp.intent('ChooseSpeakerIntent',
         // Depending on where this requested was sourced, take different paths
         var func = null;
 
-        switch (request.session('$Referrer')) {
+        switch (request.session('$Intent')) {
+        case 'SpeakingAboutIntent':
+            func = SpeakingAboutHelpers.handleSpeakingAboutIntent;
+            break;
         case 'AboutSpeakerIntent':
             func = AboutSpeakerHelpers.handleAboutSpeakerIntent;
             break;
@@ -138,7 +141,7 @@ alexaApp.intent('IsSpeakerHereIntent',
         ],
         utterances: [
             '(Was|Is) ({Speaker}|he|she) (here|speaking|presenting) (|today)',
-            '({Speaker}|he|she) (|is|was) (here|speaking|presenting) (|today)',
+            '(|If) ({Speaker}|he|she) (|is|was) (here|speaking|presenting) (|today)',
             'Are they (here|speaking|presenting) (|today)'
         ]
     },
@@ -249,27 +252,28 @@ alexaApp.intent('SessionIntent',
         return handleIntentHelper(request, response, SessionHelpers.handleSessionIntent);
     });
 
-// // Step 2: Code it.
-// //  Note this is a copy of SessionIntent as it is very similar.
-// alexaApp.intent('SessionInfoIntent',
-//     {
-//         slots: {
-//             SessionName: 'LIST_OF_MORE_COMPLETE_SESSIONS'
-//         },
-//         slot_types: [
-//             {
-//                 name: 'SessionName',
-//                 values: Text.moreCompleteSessionPhrases()
-//             }
-//         ],
-//         utterances: [
-//             'Tell me about {SessionName}',
-//             'What is {SessionName} about'
-//         ]
-//     },
-//     function (request, response) {
-//         return handleIntentHelper(request, response, SessionInfoHelpers.handleSessionInfoIntent);
-//     });
+// Step 2: Code it.
+//  Note this is a copy of SessionIntent as it is very similar.
+alexaApp.intent('SessionInfoIntent',
+    {
+        slots: {
+            SessionName: 'LIST_OF_MORE_COMPLETE_SESSIONS'
+        },
+        slot_types: [
+            {
+                name: 'SessionName',
+                values: Text.moreCompleteSessionPhrases()
+            }
+        ],
+        utterances: [
+            'Tell me about {SessionName}',
+            'What is {SessionName} about',
+            'Tell me about the {SessionName} session'
+        ]
+    },
+    function (request, response) {
+        return handleIntentHelper(request, response, SessionInfoHelpers.handleSessionInfoIntent);
+    });
 
 alexaApp.intent('ListSpeakersByBadgeIntent',
     {
@@ -293,6 +297,18 @@ alexaApp.intent('ListSpeakersByBadgeIntent',
         return handleIntentHelper(request, response, BadgeHelpers.handleListSpeakersByBadgeIntent);
     });
 
+// Step 2: Define the Intent
+// alexaApp.intent('MostPopularSpeakerIntent',
+//     {
+//         utterances: [
+//             '(Name of|Who is) the (most popular|favorite) (speaker|presenter|person)',
+//             'Who do people ask about (|most|most often)',
+//             'Who is the bomb'
+//         ]
+//     },
+//     function (request, response) {
+//         return handleIntentHelper(request, response, ReportHelpers.handleMostPopularSpeakerIntent);
+//     });
 
 // Following are the default intents (delete the unused intents if desired)
 alexaApp.intent('AMAZON.CancelIntent',

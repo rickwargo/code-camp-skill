@@ -1,498 +1,550 @@
 LIST_OF_SPEAKERS
 ----------------
-aaron
-aaron marisi
-alex
-alex grinberg
-alex zeltov
-alfonso
-alfonso garcia
-anthony
-anthony verguldi
-atley
-atley hunter
-bapatla
-bender
-benjamin
-benjamin zale
-berman
-brackel
-brent
-brent schooley
-brian
-brian lyttle
-brian minisi
-chadwick
-chakraborty
-chris
-chris gomez
-chris love
-claudio
-claudio sanchez
-dan
-dan hartshorn
-dave
-dave glick
-david
-david patrick
-david voyles
-doug
-doug finke
-ferro
-finke
-fritz
-garcia
-glick
-goff
-goldman
-gomez
-greg
-greg hurlman
-grinberg
-hartshorn
-henry
-henry he
-hunter
-hurlman
-james
-james bender
-jason
-jason van brackel
-jeffrey
-jeffrey fritz
-jennifer
-jennifer kenderdine
-jess
-jess chadwick
-jon
-jon goldman
-joy
-joy chakraborty
-kay
-ken
-ken lovely
-kendall
-kendall miller
-kenderdine
-kevin
-kevin goff
-louis
-louis berman
-love
-lovely
-luckenbill
-lyttle
-marisi
-meine
-melusky
-michael
-michael luckenbill
-mike
-mike melusky
-miller
-minisi
-nicholas
-nicholas trentacoste
-patrick
-prasad
-prasad bapatla
-riccardo
-riccardo terrell
-rich
-rich ross
-rick
-rick wargo
-ross
-sanchez
-schooley
-scott
-scott kay
-sebastian
-sebastian meine
-snyder
-terrell
-tim
-tim ferro
-todd
-todd snyder
-trentacoste
-verguldi
-voyles
-wargo
-zale
-zeltov
+Alex
+Alex Grinberg
+Amanda
+Amanda Lange
+Atley
+Atley Hunter
+Ben
+Benjamin
+Benjamin Zale
+Brackel
+Brent
+Brent Schooley
+Brian
+Brian Minisi
+Cappelletti
+Chabria
+Chakraborty
+Chris
+Chris Gomez
+Chris Love
+Dale
+Dan
+Dan Hartshorn
+Dane
+Dane Morgridge
+Darko
+Dave
+Dave Wentzel
+David
+David Horvath
+David Patrick
+David Voyles
+Dollard
+Ed
+Eduard
+Eduard Kremer
+Eric
+Eric Furry
+Furry
+Georgian
+Georgian Grigore
+Goff
+Goldman
+Gomez
+Grigore
+Grinberg
+Hartshorn
+He
+Henry
+Henry He
+Horvath
+Hunter
+Iqbal
+Iqbal Khan
+Jason
+Jason van Brackel
+Jen
+Jennifer
+Jennifer Kenderdine
+Joe
+Joe Darko
+John
+Jon
+Jon Goldman
+Joy
+Joy Chakraborty
+Karl
+Karl Shifflett
+Kathleen
+Kathleen Dollard
+Kathy
+Kay
+Ken
+Ken Dale
+Ken Lovely
+Kenderdine
+Kern
+Kevin
+Kevin Goff
+Khan
+Korick
+Kremer
+Lange
+Leonard
+Love
+Lovely
+Mandy
+Marcus
+Marcus Kern
+Mason
+Mason Wheeler
+Matt
+Matt Silva
+Melusky
+Michael
+Michael Montgomery
+Mike
+Mike Melusky
+Mike Yeager
+Minisi
+Montgomery
+Morgridge
+Okade
+Patrick
+Ravi
+Ravi Okade
+Rich
+Rich Ross
+Rick
+Rick Wargo
+Ross
+Schooley
+Scott
+Scott Kay
+Shifflett
+Silva
+Snyder
+Stachu
+Stachu Korick
+Stephen
+Stephen Leonard
+Steve
+TJ
+TJ Cappelletti
+Todd
+Todd Snyder
+Voyles
+Wargo
+Wentzel
+Wheeler
+Yash
+Yash Chabria
+Yeager
+Zale
 
 LIST_OF_SPEAKERS
 ----------------
-aaron
-aaron marisi
-alex
-alex grinberg
-alex zeltov
-alfonso
-alfonso garcia
-anthony
-anthony verguldi
-atley
-atley hunter
-bapatla
-bender
-benjamin
-benjamin zale
-berman
-brackel
-brent
-brent schooley
-brian
-brian lyttle
-brian minisi
-chadwick
-chakraborty
-chris
-chris gomez
-chris love
-claudio
-claudio sanchez
-dan
-dan hartshorn
-dave
-dave glick
-david
-david patrick
-david voyles
-doug
-doug finke
-ferro
-finke
-fritz
-garcia
-glick
-goff
-goldman
-gomez
-greg
-greg hurlman
-grinberg
-hartshorn
-henry
-henry he
-hunter
-hurlman
-james
-james bender
-jason
-jason van brackel
-jeffrey
-jeffrey fritz
-jennifer
-jennifer kenderdine
-jess
-jess chadwick
-jon
-jon goldman
-joy
-joy chakraborty
-kay
-ken
-ken lovely
-kendall
-kendall miller
-kenderdine
-kevin
-kevin goff
-louis
-louis berman
-love
-lovely
-luckenbill
-lyttle
-marisi
-meine
-melusky
-michael
-michael luckenbill
-mike
-mike melusky
-miller
-minisi
-nicholas
-nicholas trentacoste
-patrick
-prasad
-prasad bapatla
-riccardo
-riccardo terrell
-rich
-rich ross
-rick
-rick wargo
-ross
-sanchez
-schooley
-scott
-scott kay
-sebastian
-sebastian meine
-snyder
-terrell
-tim
-tim ferro
-todd
-todd snyder
-trentacoste
-verguldi
-voyles
-wargo
-zale
-zeltov
+Alex
+Alex Grinberg
+Amanda
+Amanda Lange
+Atley
+Atley Hunter
+Ben
+Benjamin
+Benjamin Zale
+Brackel
+Brent
+Brent Schooley
+Brian
+Brian Minisi
+Cappelletti
+Chabria
+Chakraborty
+Chris
+Chris Gomez
+Chris Love
+Dale
+Dan
+Dan Hartshorn
+Dane
+Dane Morgridge
+Darko
+Dave
+Dave Wentzel
+David
+David Horvath
+David Patrick
+David Voyles
+Dollard
+Ed
+Eduard
+Eduard Kremer
+Eric
+Eric Furry
+Furry
+Georgian
+Georgian Grigore
+Goff
+Goldman
+Gomez
+Grigore
+Grinberg
+Hartshorn
+He
+Henry
+Henry He
+Horvath
+Hunter
+Iqbal
+Iqbal Khan
+Jason
+Jason van Brackel
+Jen
+Jennifer
+Jennifer Kenderdine
+Joe
+Joe Darko
+John
+Jon
+Jon Goldman
+Joy
+Joy Chakraborty
+Karl
+Karl Shifflett
+Kathleen
+Kathleen Dollard
+Kathy
+Kay
+Ken
+Ken Dale
+Ken Lovely
+Kenderdine
+Kern
+Kevin
+Kevin Goff
+Khan
+Korick
+Kremer
+Lange
+Leonard
+Love
+Lovely
+Mandy
+Marcus
+Marcus Kern
+Mason
+Mason Wheeler
+Matt
+Matt Silva
+Melusky
+Michael
+Michael Montgomery
+Mike
+Mike Melusky
+Mike Yeager
+Minisi
+Montgomery
+Morgridge
+Okade
+Patrick
+Ravi
+Ravi Okade
+Rich
+Rich Ross
+Rick
+Rick Wargo
+Ross
+Schooley
+Scott
+Scott Kay
+Shifflett
+Silva
+Snyder
+Stachu
+Stachu Korick
+Stephen
+Stephen Leonard
+Steve
+TJ
+TJ Cappelletti
+Todd
+Todd Snyder
+Voyles
+Wargo
+Wentzel
+Wheeler
+Yash
+Yash Chabria
+Yeager
+Zale
 
 LIST_OF_SPEAKERS
 ----------------
-aaron
-aaron marisi
-alex
-alex grinberg
-alex zeltov
-alfonso
-alfonso garcia
-anthony
-anthony verguldi
-atley
-atley hunter
-bapatla
-bender
-benjamin
-benjamin zale
-berman
-brackel
-brent
-brent schooley
-brian
-brian lyttle
-brian minisi
-chadwick
-chakraborty
-chris
-chris gomez
-chris love
-claudio
-claudio sanchez
-dan
-dan hartshorn
-dave
-dave glick
-david
-david patrick
-david voyles
-doug
-doug finke
-ferro
-finke
-fritz
-garcia
-glick
-goff
-goldman
-gomez
-greg
-greg hurlman
-grinberg
-hartshorn
-henry
-henry he
-hunter
-hurlman
-james
-james bender
-jason
-jason van brackel
-jeffrey
-jeffrey fritz
-jennifer
-jennifer kenderdine
-jess
-jess chadwick
-jon
-jon goldman
-joy
-joy chakraborty
-kay
-ken
-ken lovely
-kendall
-kendall miller
-kenderdine
-kevin
-kevin goff
-louis
-louis berman
-love
-lovely
-luckenbill
-lyttle
-marisi
-meine
-melusky
-michael
-michael luckenbill
-mike
-mike melusky
-miller
-minisi
-nicholas
-nicholas trentacoste
-patrick
-prasad
-prasad bapatla
-riccardo
-riccardo terrell
-rich
-rich ross
-rick
-rick wargo
-ross
-sanchez
-schooley
-scott
-scott kay
-sebastian
-sebastian meine
-snyder
-terrell
-tim
-tim ferro
-todd
-todd snyder
-trentacoste
-verguldi
-voyles
-wargo
-zale
-zeltov
+Alex
+Alex Grinberg
+Amanda
+Amanda Lange
+Atley
+Atley Hunter
+Ben
+Benjamin
+Benjamin Zale
+Brackel
+Brent
+Brent Schooley
+Brian
+Brian Minisi
+Cappelletti
+Chabria
+Chakraborty
+Chris
+Chris Gomez
+Chris Love
+Dale
+Dan
+Dan Hartshorn
+Dane
+Dane Morgridge
+Darko
+Dave
+Dave Wentzel
+David
+David Horvath
+David Patrick
+David Voyles
+Dollard
+Ed
+Eduard
+Eduard Kremer
+Eric
+Eric Furry
+Furry
+Georgian
+Georgian Grigore
+Goff
+Goldman
+Gomez
+Grigore
+Grinberg
+Hartshorn
+He
+Henry
+Henry He
+Horvath
+Hunter
+Iqbal
+Iqbal Khan
+Jason
+Jason van Brackel
+Jen
+Jennifer
+Jennifer Kenderdine
+Joe
+Joe Darko
+John
+Jon
+Jon Goldman
+Joy
+Joy Chakraborty
+Karl
+Karl Shifflett
+Kathleen
+Kathleen Dollard
+Kathy
+Kay
+Ken
+Ken Dale
+Ken Lovely
+Kenderdine
+Kern
+Kevin
+Kevin Goff
+Khan
+Korick
+Kremer
+Lange
+Leonard
+Love
+Lovely
+Mandy
+Marcus
+Marcus Kern
+Mason
+Mason Wheeler
+Matt
+Matt Silva
+Melusky
+Michael
+Michael Montgomery
+Mike
+Mike Melusky
+Mike Yeager
+Minisi
+Montgomery
+Morgridge
+Okade
+Patrick
+Ravi
+Ravi Okade
+Rich
+Rich Ross
+Rick
+Rick Wargo
+Ross
+Schooley
+Scott
+Scott Kay
+Shifflett
+Silva
+Snyder
+Stachu
+Stachu Korick
+Stephen
+Stephen Leonard
+Steve
+TJ
+TJ Cappelletti
+Todd
+Todd Snyder
+Voyles
+Wargo
+Wentzel
+Wheeler
+Yash
+Yash Chabria
+Yeager
+Zale
 
 LIST_OF_SPEAKERS
 ----------------
-aaron
-aaron marisi
-alex
-alex grinberg
-alex zeltov
-alfonso
-alfonso garcia
-anthony
-anthony verguldi
-atley
-atley hunter
-bapatla
-bender
-benjamin
-benjamin zale
-berman
-brackel
-brent
-brent schooley
-brian
-brian lyttle
-brian minisi
-chadwick
-chakraborty
-chris
-chris gomez
-chris love
-claudio
-claudio sanchez
-dan
-dan hartshorn
-dave
-dave glick
-david
-david patrick
-david voyles
-doug
-doug finke
-ferro
-finke
-fritz
-garcia
-glick
-goff
-goldman
-gomez
-greg
-greg hurlman
-grinberg
-hartshorn
-henry
-henry he
-hunter
-hurlman
-james
-james bender
-jason
-jason van brackel
-jeffrey
-jeffrey fritz
-jennifer
-jennifer kenderdine
-jess
-jess chadwick
-jon
-jon goldman
-joy
-joy chakraborty
-kay
-ken
-ken lovely
-kendall
-kendall miller
-kenderdine
-kevin
-kevin goff
-louis
-louis berman
-love
-lovely
-luckenbill
-lyttle
-marisi
-meine
-melusky
-michael
-michael luckenbill
-mike
-mike melusky
-miller
-minisi
-nicholas
-nicholas trentacoste
-patrick
-prasad
-prasad bapatla
-riccardo
-riccardo terrell
-rich
-rich ross
-rick
-rick wargo
-ross
-sanchez
-schooley
-scott
-scott kay
-sebastian
-sebastian meine
-snyder
-terrell
-tim
-tim ferro
-todd
-todd snyder
-trentacoste
-verguldi
-voyles
-wargo
-zale
-zeltov
+Alex
+Alex Grinberg
+Amanda
+Amanda Lange
+Atley
+Atley Hunter
+Ben
+Benjamin
+Benjamin Zale
+Brackel
+Brent
+Brent Schooley
+Brian
+Brian Minisi
+Cappelletti
+Chabria
+Chakraborty
+Chris
+Chris Gomez
+Chris Love
+Dale
+Dan
+Dan Hartshorn
+Dane
+Dane Morgridge
+Darko
+Dave
+Dave Wentzel
+David
+David Horvath
+David Patrick
+David Voyles
+Dollard
+Ed
+Eduard
+Eduard Kremer
+Eric
+Eric Furry
+Furry
+Georgian
+Georgian Grigore
+Goff
+Goldman
+Gomez
+Grigore
+Grinberg
+Hartshorn
+He
+Henry
+Henry He
+Horvath
+Hunter
+Iqbal
+Iqbal Khan
+Jason
+Jason van Brackel
+Jen
+Jennifer
+Jennifer Kenderdine
+Joe
+Joe Darko
+John
+Jon
+Jon Goldman
+Joy
+Joy Chakraborty
+Karl
+Karl Shifflett
+Kathleen
+Kathleen Dollard
+Kathy
+Kay
+Ken
+Ken Dale
+Ken Lovely
+Kenderdine
+Kern
+Kevin
+Kevin Goff
+Khan
+Korick
+Kremer
+Lange
+Leonard
+Love
+Lovely
+Mandy
+Marcus
+Marcus Kern
+Mason
+Mason Wheeler
+Matt
+Matt Silva
+Melusky
+Michael
+Michael Montgomery
+Mike
+Mike Melusky
+Mike Yeager
+Minisi
+Montgomery
+Morgridge
+Okade
+Patrick
+Ravi
+Ravi Okade
+Rich
+Rich Ross
+Rick
+Rick Wargo
+Ross
+Schooley
+Scott
+Scott Kay
+Shifflett
+Silva
+Snyder
+Stachu
+Stachu Korick
+Stephen
+Stephen Leonard
+Steve
+TJ
+TJ Cappelletti
+Todd
+Todd Snyder
+Voyles
+Wargo
+Wentzel
+Wheeler
+Yash
+Yash Chabria
+Yeager
+Zale
 
 LIST_OF_TIMES
 -------------
@@ -504,17 +556,17 @@ LIST_OF_TIMES
 
 LIST_OF_ROOMS
 -------------
-30th street
+30th Street
 EBC
 MPR1
 MPR2
 MPR3
-berwyn
-malvern
-merion
-paoli
-strafford
-wynnewood
+Berwyn
+Malvern
+Merion
+Paoli
+Strafford
+Wynnewood
 
 LIST_OF_TIMES
 -------------
@@ -534,768 +586,928 @@ LIST_OF_TIMES
 
 LIST_OF_SESSIONS
 ----------------
+dot Net
+dot Net Developers
+AI
 ASP
-ASP dot net
-ASP dot net 4.6+
-ASP dot net Core
-ASP dot net Integration
-ASP.Net
-ASP.Net Core
-ASP.Net Core and Azure
-Advice
-Advice from the Trenches
+ASP dot Net
+ASP dot Net Core
+ASP dot Net Developers
+Advanced
+Advanced FrontEnd
+Advanced FrontEnd Debugging
 Alexa
 Alexa Skill
+Analysis
 Analytics
-Analytics using Apache
-Analytics using Apache Spark
+Analytics and Data
+Analytics and Data Science
 Analyzers
+AndroidLinux
 Angular
-Angular 1.x
-Angular 1.x with Visual
 Angular 2
-Angular 2 Tooling
+Angular 2 Testing
+Angular 2 Testing Strategies
+Angular 2 for ASP
 AngularJS
-AngularJS Hello
-AngularJS Hello clientside
-AngularJS Hello clientside MVC
-AngularJS Unit
-AngularJS Unit Testing
-Apache
-Apache Spark
-Apache Spark on HDInsights
+AngularJS 1.5.x
+AngularJS 1.5.x Componentbased
+AngularJS 1.5.x Componentbased Applications
+Animation
+Animation Make
+Animation Make your Mobile
+Anyone
+Anyone can build
+Anyone can build games
 App
-App A Primer
+App Stand
+App Stand Out
+App with ASP
+Application
+Application Developers
+Application Developers Attendees
+Application Developers Attendees chose
 Applications
+Applications Never
+Applications Never Felt
+Applications Never Felt So
+Apps
+Apps with Distributed
+Apps with Distributed Caching
 Architecting
 Architecting Distributed
-Architecting Distributed Data
-Architecting Distributed Data Platform
+Architecting Distributed Analytics
 Architectures
-Architectures that grow
+Architectures with Microsoft
+Architectures with Microsoft Azure
+Attendees
+Attendees chose
+Awesomeness
 Azure
-Azure PaaS
-Azure Perfect
-Azure Perfect Together
-Azure SaaS
-Azure SaaS andor HDP
+Azure DevTest
+Azure DevTest Labs
+Azure Functions
+Azure SQL
+Azure SQL Database
 Azure Service
 Azure Service Fabric
-Azure WebJobs
-Azure WebJobs My Next
-Azure helped
-Azure helped us improve
-BDD-Style
-BDD-Style testing
-BDD-Style testing for Powershell
-Batch
-Batch Processing
-Batch Processing with Azure
+Azure Web
+Azure Web App
+AzureBigData
+AzureBigData Technologies
 Better
-Better Code
-Better Code With Live
+Better C#
+Better C# Code
 Big
 Big Data
-Big Data Analytics
-BigData
-BigData Technologies
-Bring
-Bring Solid
-Bring Solid to Web
-Business
-Business Processes
-Business Processes in SharePoint
-C
-C C++
+Big Data and Hadoop
+Boo
+Boo Programmable
+Boo Programmable Programming
+Bot
+Build
+Build a Bot
+Building
+Building websites
+Building websites on azure
 C#
-C# 6
-C++
-C++ on the web
-Career
-Career Advice
-Career tools
-Career tools tips
-Cloud
-Cloud How Azure
-Cloud How Azure helped
+C# Code
+C# Code With Live
+C# and SQL
+C# and SQL Server
+CLR
+CONVERTIMPLICIT
+CONVERTIMPLICIT is a hidden
+Caching
 Code
 Code With Live
 Code With Live Analyzers
-Common
-Common Misconceptions
-Compiler
-Compiler to Javascript
-Consultant
-Containers
-Containers and Docker
+Cognitive
+Cognitive AI
+Community
+Community Panel
+Community Panel Discussion
+Componentbased
+Componentbased Applications
+Components
+Components and More
+Components and More Effective
 Continuous
 Continuous Integration
 Continuous Integration and Deployment
-Cool
-Cool ASP
-Cool ASP dot net
 Core
-Core and Azure
-Core and Azure Perfect
+Core 1.0
+Core 1.0 and ASP
+Core data
+Core data protection
+Core everywhere
+Core everywhere else
 Couchbase
-Couchbase Its Web
-Couchbase Its Web Scale
+Couchbase for .Net
+Couchbase for .Net Developers
 Create
 Create an Alexa
 Create an Alexa Skill
-Creating
-Creating and debugging
-Creating and debugging hybrid
-Cutting
-Cutting Through
-Cutting Through The Static
+Creation
+Creation from MVVM
+Creation from MVVM ViewModel
+CrossPlatform
+CrossPlatform Native
+CrossPlatform Native Awesomeness
+Curie
 Data
-Data Analytics
-Data Analytics using Apache
-Data Platform
-Data Platform using Microsofts
-Data Secure
+Data Analysis
+Data Entry
+Data Entry Form
+Data Entry Form Creation
+Data Science
+Data Science applications
+Data and Hadoop
+Database
 Debugging
-Debugging with WinDbg
-Deep
-Deep Dive
-Deep Dive on ASP
+Debugging with Microsoft
+Debugging with Microsoft Edge
 Delivery
-Dependency
-Dependency Injection
 Deployment
-Deployment From New
-Deployment From New Idea
-Design
-Design To Make
 Designing
 Designing and Architecting
 Designing and Architecting Distributed
 DevOps
+DevOps C#
+DevOps C# and SQL
+DevOps Using Azure
+DevOps Using Azure DevTest
 DevOps to Optimize
 DevOps to Optimize Value
+DevTest
+DevTest Labs
 Developers
-Developers Most Common
-Developers Most Common Misconceptions
-Developers attendees
-Developers attendees choose
-Developers attendees choose topics
+Developers Attendees
+Developers Attendees chose
+Developing
+Developing for Mixed
+Developing for Mixed Reality
 Development
+Development With RiPi
+Different
+Different World
+Discussion
 Distributed
-Distributed Data
-Distributed Data Platform
-Dive
-Dive on ASP
-Docker
-Docker on Azure
-Efficiency
-Efficiency with Visual
-Efficiency with Visual Studio
-Ember.js
-Ember.js 2.0
-Ember.js 2.0 and ASP
-EmberJS
-EmberJS ASP.Net
-EmberJS ASP.Net Core
-Everywhere
+Distributed Analytics
+Distributed Analytics and Data
+Distributed Caching
+ES2015
+ES2015 AngularJS
+ES2015 AngularJS 1.5.x
+ES2015 AngularJS 1.5.x Componentbased
+Edge
+Edge and Microsoft
+Edge and Microsoft Tools
+Effective
+Effective Angular
+Effective Angular 2
+Effective Angular 2 Testing
+Enterprise
+Enterprise Mobility
+Enterprise Mobility A Whole
+Entry
+Entry Form
+Entry Form Creation
 Evolved
+Evolved Reduxing
+Evolved Reduxing State
+Evolved Reduxing State Management
+Explore
+Explore Serverless
+Explore Serverless Architectures
 Fabric
-Features
-Features You Need
+Felt
+Felt So
+Felt So Good
+FlatBuffers
+FlatBuffers all
+FlatBuffers all in One
+Form
+Form Creation
+Form Creation from MVVM
+Forms
+Forward
+Framework
+FrontEnd
+FrontEnd Debugging
+FrontEnd Debugging with Microsoft
 Functional
-Functional Compiler
-Functional Compiler to Javascript
-Functional Reactive
-Functional Reactive Programming
-Getting Started
-Getting Started With JavaScript
-Getting started
-Getting started with Containers
-HDInsights
-HDInsights on Azure
-HDInsights on Azure SaaS
-HDP
-HDP on Azure
-HDP on Azure PaaS
-Hack
-Hack Your Career
-Hack Your Career tools
-Hello
-Hello clientside
-Hello clientside MVC
+Functional Techniques
+Functional Techniques for Imperative
+Functions
+GNU
+GNU for Data
+GNU for Data Analysis
+Get
+Get the most out
+Git
+Git A practical
+Git A practical guide
+Go
+Go CrossPlatform
+Go CrossPlatform Native
+Go CrossPlatform Native Awesomeness
+Good
+Great
+Great Team
+Great Team Starts
+Hadoop
+Handson
+Handson Labs
+Handson Labs Intel
+Handson Labs Intel Curie
+Hangfire
+Hangfire the ultimate
+Hangfire the ultimate MVC
+HoloLens
 IOT
-IT
-IT Consultant
-Idea
-Idea to NuGet
-Image
-Image Strategy
-Implementing
-Implementing a Responsive
-Implementing a Responsive Image
-Injection
-Integrating
-Integrating Business
-Integrating Business Processes
+IOT to talk
+Imperative
+Imperative Object
+Imperative Object Oriented
+Imperative Object Oriented Languages
 Integration
 Integration and Deployment
-Interface
-Interfaces
-Interfaces to Minecraft
+Intel
+Intel Curie
 Intro
-Intro to AngularJS
-Intro to AngularJS Hello
 Intro to Visual
 Intro to Visual Web
 Introduction
-Introduction to Azure
-Introduction to Azure Service
-Introduction to BDD-Style
-Introduction to BDD-Style testing
-Introduction to Big
-Introduction to Big Data
+Introduction to Continuous
+Introduction to Continuous Integration
 Introduction to Microsoft
-Introduction to Microsoft Azure
+Introduction to Microsoft Cognitive
 Introduction to R
 Introduction to Swift
-Isolated
-Isolated with Mocks
+Introduction to Swift 3
+Introduction to dot Net
+Introduction to the SharePoint
 JavaScript
 JavaScript Evolved
-JavaScript Libraries
-JavaScript Libraries for Office
-Javascript
-Keeping Your Unit
-Keeping Your Unit Tests
-Leaflet.js
-Learned
-Learned to Love
-Learned to Love Dependency
-Libraries
-Libraries for Office
-Libraries for Office 365
+JavaScript Evolved Reduxing
+JavaScript Evolved Reduxing State
+Labs
+Labs Intel
+Labs Intel Curie
+Languages
+Lets
+Lets Build
+Lets Build a Bot
+Leveraging
+Leveraging UNIX
+Leveraging UNIX Tools
+Leveraging UNIX Tools GNU
 Live
 Live Analyzers
-Love
-Love Dependency
-Love Dependency Injection
 MVC
-MVC 6
-MVC 6 Getting Started
+MVC and WebApi
+MVC and WebApi Task
+MVP
+MVP and Community
+MVP and Community Panel
+MVVM
+MVVM ViewModel
 Make
-Make Your Web
-Make Your Web Work
-Make your code
-Make your code work
-Making
-Making cool
-Making cool gadgets
-ManifoldJS
-ManifoldJS VorlonJS
-Mapping
-Mapping with Leaflet.js
+Make your Mobile
+Make your Mobile App
+Management
+Management Objects
+Management Objects SMO
+Management with Angular
+Management with Angular 2
+Manager
 Maturing
 Maturing DevOps
 Maturing DevOps to Optimize
-Messaging
-Messaging for Applications
+Meatspace
+Megabytes
+Megabytes to Terabytes
+Megabytes to Terabytes quickly
+Metaprogramming
+Metaprogramming in dot Net
+Micro
+Micro controller
+Micro controller Setup
 Microsoft
 Microsoft Azure
+Microsoft Azure Functions
+Microsoft Cognitive
+Microsoft Cognitive AI
+Microsoft Edge
+Microsoft Edge and Microsoft
+Microsoft HoloLens
+Microsoft Tools
 Microsofts
-Microsofts BigData
-Microsofts BigData Technologies
-Minecraft
-Minecraft or how-to
-Minecraft or how-to look
-Misconceptions
-Mocks
-Natural
-Natural User
-Natural User Interface
-Need
-New
-New Idea
-New Idea to NuGet
-New In C#
-New In C# 6
-Next
-Next SuperPower
-NuGet
-Office
-Office 365
+Microsofts AzureBigData
+Microsofts AzureBigData Technologies
+Mixed
+Mixed Reality
+Mixed Reality with Microsoft
+Mobile
+Mobile App
+Mobile App Stand
+Mobile App Stand Out
+Mobility
+Mobility A Whole
+Mobility A Whole Different
+Modern
+Modern jQuery
+Modern jQuery Refactoring
+Monads
+Monads as
+Monads as simple
+Monads as simple as
+Monitoring
+Monitoring in Meatspace
+More
+More Effective
+More Effective Angular
+More Effective Angular 2
+Native
+Native Awesomeness
+Never
+Never Felt
+Never Felt So
+Never Felt So Good
+Object
+Object Oriented
+Object Oriented Languages
+Objects
+Objects SMO
+One
+One hour
 Optimize
 Optimize Value
 Optimize Value Delivery
-Optimizing
-Optimizing Team
-Optimizing Team Efficiency
-PaaS
+Oriented
+Oriented Languages
+Out
 Panel
-Panel Hack
-Panel Hack Your Career
-Parts
-Perfect
-Perfect Together
-Pester
-Pester Me An Introduction
-Phenomenal
-Phenomenal IT
-Phenomenal IT Consultant
-Platform
-Platform using Microsofts
-Platform using Microsofts BigData
-PowerShell
-PowerShell V5.0
-PowerShell V5.0 ships
-Powershell
-Primer
-Processes
-Processes in SharePoint
-Processing
-Processing with Azure
-Processing with Azure WebJobs
-Programmatic
-Programmatic Interfaces
-Programmatic Interfaces to Minecraft
+Panel Discussion
+Part
+Part Development
+Pine64
+Pine64 Using Windows
+Pine64 Using Windows 10
+Practical
+Practical DevOps
+Practical DevOps Using Azure
+Programmable
+Programmable Programming
 Programming
-Programming for Natural
-Programming for Natural User
+Programming Azure
+Programming Azure Service
+Programming Azure Service Fabric
+Programming for the CLR
 R
-RabbitMQ
-RabbitMQ Robust
-RabbitMQ Robust Messaging
-Reactive
-Reactive Programming
-Reactive Programming for Natural
-Reporting
-Reporting Services
-Reporting Services for Developers
-Responsive
-Responsive Image
-Responsive Image Strategy
-Responsive Web
-Responsive Web Design
-Robust
-Robust Messaging
-Robust Messaging for Applications
+Rapid
+Rapid XamarinForms
+Rapid XamarinForms XAML
+Rapid XamarinForms XAML Data
+Reality
+Reality with Microsoft
+Reality with Microsoft HoloLens
+Reasons
+Reasons to upgrade
+Reduxing
+Reduxing State
+Reduxing State Management
+Refactoring
+Refactoring and Testing
+RiPi
+RiPi and Pine64
+SEO
+SEO scaling
+SEO scaling all
+SMO
 SQL
+SQL Database
 SQL Server
-SQL Server Reporting
-SQL Server Reporting Services
-SaaS
-SaaS and or HDP
-SaaS and HDP
-SaaS or HDP
+SQL Server 2016
+SQL Server 2016 Enterprise
+SQL Server Management
+SQL Server Management Objects
 Scale
+Scale dot Net
+Scale dot Net Apps
 Scaling
-Scaling Systems
-Scaling Systems Architectures
-Secure
+Scaling Techniques
+Scaling Techniques for Azure
+Scaling Up
+Scaling Up going
+Science
+Science applications
+Science applications using Microsofts
+Securing
+Securing your Azure
+Securing your Azure Web
 Server
-Server Reporting
-Server Reporting Services
+Server 2016
+Server 2016 Enterprise
+Server Management
+Server Management Objects
+Server Management Objects SMO
+Serverless
+Serverless Architectures
+Serverless Architectures with Microsoft
 Service
 Service Fabric
 Services
-Services for Developers
-Services for Developers attendees
+Services Workers
+Services Workers Your Web
+Setup
+Setup and Development
 SharePoint
-Side
-Side Keeping Your Unit
-Side Thats Your Side
+SharePoint Framework
 Skill
-SlackDriven
-SlackDriven Development
-Solid
-Solid to Web
-Solid to Web Development
-Spark
-Spark on HDInsights
-Started
-Started With JavaScript
-Started With JavaScript Libraries
-Static
-Strategy
+So
+So Good
+Stand
+Stand Out
+Starts
+Starts With Youand
+State
+State Management
+State Management with Angular
+Strategies
 Studio
-Studio and TFS
-Successful
-Successful App
-Successful App A Primer
-SuperPower
+Studio A look
+Studio A look at
 Swift
+Swift 3
 Swift Introduction
 Swift Introduction to Swift
-Systems
-Systems Architectures
-Systems Architectures that grow
-TFS
 TSQL
-TSQL for dot net
+TSQL for Application
+TSQL for Application Developers
+Task
+Task Manager
 Team
-Team Efficiency
-Team Efficiency with Visual
+Team Starts
+Team Starts With Youand
+Techniques
+Techniques for Azure
+Techniques for Azure SQL
+Techniques for Imperative
+Techniques for Imperative Object
 Technologies
+Terabytes
+Terabytes quickly
+Testable
+Testable ES2015
+Testable ES2015 AngularJS
+Testable ES2015 AngularJS 1.5.x
 Testing
-Tests
-Tests Isolated
-Tests Isolated with Mocks
-Through
-Through The Static
-Together
-Tooling
-Tooling for Angular
-Tooling for Angular 1.x
-TransactSQL
-TransactSQL for Developers
-TransactSQL for Developers attendees
-Trenches
-TypeScript
-TypeScript JavaScript
-TypeScript JavaScript Evolved
-Unit
-Unit Testing
-Unit Tests
-Unit Tests Isolated
-User
-User Interface
-V5.0
-V5.0 ships
-V5.0 ships with Windows
+Testing Strategies
+Testing the Way
+Testing the Way Forward
+Tools
+Tools GNU
+Tools GNU for Data
+UNIX
+UNIX Tools
+UNIX Tools GNU
+Understanding
+Understanding Azure
+Understanding Azure Service
+Understanding Azure Service Fabric
+Up
+Up going
+Up going from Megabytes
 Value
 Value Delivery
+ViewModel
 Visual
 Visual Studio
-Visual Studio and TFS
+Visual Studio A look
 Visual Web
-Visual Web Parts
-VorlonJS
+Visual Web Part
+Visual Web Part Development
+Way
+Way Forward
+Wearable
+Wearable Handson
+Wearable Handson Labs
+Wearable Handson Labs Intel
 Web
-Web Design
-Web Design To Make
-Web Development
-Web Parts
-Web Scale
-Web Work
-Web Work Everywhere
-WebJobs
-WebJobs My Next
-WebJobs My Next SuperPower
-WinDbg
+Web App
+Web App with ASP
+Web Applications
+Web Applications Never
+Web Applications Never Felt
+Web Part
+Web Part Development
+WebApi
+WebApi Task
+WebApi Task Manager
+Who
+Who needs
+Who needs Visual
+Who needs Visual Studio
+Whole
+Whole Different
+Whole Different World
 Windows
 Windows 10
-Work
-Work Everywhere
+Windows 10 IOT
+Workers
+Workers Your Web
+Workers Your Web Applications
+World
 Write
 Write Better
-Write Better Code
-apps
-apps with ManifoldJS
-apps with ManifoldJS VorlonJS
+Write Better C#
+Write Better C# Code
+XAML
+XAML Data
+XAML Data Entry
+XAML Data Entry Form
+Xamarin
+Xamarin Forms
+XamarinForms
+XamarinForms XAML
+XamarinForms XAML Data
+XamarinForms XAML Data Entry
+Xbox
+Xbox One
+Youand
+ZeroMQ
+ZeroMQ ZooKeeper
+ZeroMQ ZooKeeper and FlatBuffers
+ZooKeeper
+ZooKeeper and FlatBuffers
+ZooKeeper and FlatBuffers all
+all
+all in One
+all in One hour
+all in one
+applications
+applications using Microsofts
+applications using Microsofts AzureBigData
 as
-as a developer
-attendees
-attendees choose
-attendees choose topics
-choose
-choose topics
-clientside
-clientside MVC
-code
-code work
-code work everywhere
-cool
-cool gadgets
-cool gadgets with IOT
-cool to your kid
-current
-current state
-current state of C
+as it
+as simple
+as simple as
+as simple as it
+at
+at using dot net
+azure
+azure creation
+azure creation debugging
+azure creation debugging SEO
+build
+build games
+build games on Xbox
+chose
+controller
+controller Setup
+controller Setup and Development
+creation
+creation debugging
+creation debugging SEO
+creation debugging SEO scaling
+danger
+data
+data protection
 debugging
-debugging hybrid
-debugging hybrid mobile
-debugging hybrid mobile apps
-developer
+debugging SEO
+debugging SEO scaling
+debugging SEO scaling all
 dot net
-dot net 4.6+
-dot net 4.6+ Features
+dot net Apps
 dot net Core
-dot net Debugging
+dot net Core 1.0
+dot net Core data
+dot net Core everywhere
 dot net Developers
-dot net Integration
+else
 everywhere
-gadgets
-gadgets with IOT
-grow
-grow as
-grow as a developer
-help
-help you grow
-help you grow as
-helped
-helped us improve
-how-to
-how-to look
-how-to look cool
-hybrid
-hybrid mobile
-hybrid mobile apps
-improve
-improve the scalability
-kid
+everywhere else
+games
+games on Xbox
+games on Xbox One
+going
+going from Megabytes
+guide
+guide for the rest
+hidden
+hidden danger
+hour
+it
+jQuery
+jQuery Refactoring
+jQuery Refactoring and Testing
 look
-look cool
-mobile
-mobile apps
-mobile apps with ManifoldJS
-scalability
-scalability of our SaaS
-ships
-ships with Windows
-ships with Windows 10
-started
-started with Containers
-state
-state of C
-state of C C++
-techniques
-techniques that help
-testing
-testing for Powershell
-tips
-tips and techniques
-tools
-tools tips
-tools tips and techniques
-topics
-web
-web Make
-web Make your code
-work
-work everywhere
+look at
+needs
+needs Visual
+needs Visual Studio
+one
+out
+out of Xamarin
+out of Xamarin Forms
+practical
+practical guide
+protection
+quickly
+rest
+scaling
+scaling all
+scaling all in one
+simple
+simple as
+simple as it
+talk
+talk to AndroidLinux
+ultimate
+ultimate MVC
+ultimate MVC and WebApi
+upgrade
+upgrade to SQL
+upgrade to SQL Server
+websites
+websites on azure
+websites on azure creation
 
 LIST_OF_MORE_COMPLETE_SESSIONS
 ------------------------------
-ASP dot net
-ASP dot net 4.6+
-ASP dot net Core
-ASP dot net Integration
-ASP.Net Core and Azure
-Advice from the Trenches
-Analytics using Apache
-Analytics using Apache Spark
-Angular 1.x with Visual
-Angular 2 Tooling
-AngularJS Hello clientside
-AngularJS Hello clientside MVC
-AngularJS Unit Testing
-Apache Spark on HDInsights
-App A Primer
-Architecting Distributed Data
-Architecting Distributed Data Platform
-Architectures that grow
-Azure Perfect Together
-Azure SaaS andor HDP
+dot Net Developers
+ASP dot Net
+ASP dot Net Core
+ASP dot Net Developers
+Advanced FrontEnd Debugging
+Analytics and Data
+Analytics and Data Science
+Angular 2 Testing
+Angular 2 Testing Strategies
+Angular 2 for ASP
+AngularJS 1.5.x Componentbased
+AngularJS 1.5.x Componentbased Applications
+Animation Make your Mobile
+Anyone can build
+Anyone can build games
+App Stand Out
+App with ASP
+Application Developers Attendees
+Application Developers Attendees chose
+Applications Never Felt
+Applications Never Felt So
+Apps with Distributed
+Apps with Distributed Caching
+Architecting Distributed Analytics
+Architectures with Microsoft
+Architectures with Microsoft Azure
+Azure DevTest Labs
+Azure SQL Database
 Azure Service Fabric
-Azure WebJobs My Next
-Azure helped us improve
-BDD-Style testing for Powershell
-Batch Processing with Azure
-Better Code With Live
-Big Data Analytics
-Bring Solid to Web
-Business Processes in SharePoint
-C++ on the web
-Career tools tips
-Cloud How Azure
-Cloud How Azure helped
+Azure Web App
+Better C# Code
+Big Data and Hadoop
+Boo Programmable Programming
+Build a Bot
+Building websites on azure
+C# Code With Live
+C# and SQL
+C# and SQL Server
+CONVERTIMPLICIT is a hidden
 Code With Live
 Code With Live Analyzers
-Compiler to Javascript
-Containers and Docker
+Community Panel Discussion
+Components and More
+Components and More Effective
 Continuous Integration and Deployment
-Cool ASP dot net
-Core and Azure
-Core and Azure Perfect
-Couchbase Its Web
-Couchbase Its Web Scale
+Core 1.0 and ASP
+Core data protection
+Core everywhere else
+Couchbase for .Net
+Couchbase for .Net Developers
 Create an Alexa
 Create an Alexa Skill
-Creating and debugging
-Creating and debugging hybrid
-Cutting Through The Static
-Data Analytics using Apache
-Data Platform using Microsofts
-Debugging with WinDbg
-Deep Dive on ASP
-Deployment From New
-Deployment From New Idea
-Design To Make
+Creation from MVVM
+Creation from MVVM ViewModel
+CrossPlatform Native Awesomeness
+Data Entry Form
+Data Entry Form Creation
+Data Science applications
+Data and Hadoop
+Debugging with Microsoft
+Debugging with Microsoft Edge
 Designing and Architecting
 Designing and Architecting Distributed
+DevOps C# and SQL
+DevOps Using Azure
+DevOps Using Azure DevTest
 DevOps to Optimize
 DevOps to Optimize Value
-Developers Most Common
-Developers Most Common Misconceptions
-Developers attendees choose
-Developers attendees choose topics
-Distributed Data Platform
-Dive on ASP
-Docker on Azure
-Efficiency with Visual
-Efficiency with Visual Studio
-Ember.js 2.0 and ASP
-EmberJS ASP.Net Core
-Features You Need
-Functional Compiler to Javascript
-Functional Reactive Programming
-Getting Started With JavaScript
-Getting started with Containers
-HDInsights on Azure
-HDInsights on Azure SaaS
-HDP on Azure
-HDP on Azure PaaS
-Hack Your Career
-Hack Your Career tools
-Hello clientside MVC
-Idea to NuGet
-Implementing a Responsive
-Implementing a Responsive Image
-Integrating Business Processes
+Developers Attendees chose
+Developing for Mixed
+Developing for Mixed Reality
+Development With RiPi
+Distributed Analytics and Data
+ES2015 AngularJS 1.5.x
+ES2015 AngularJS 1.5.x Componentbased
+Edge and Microsoft
+Edge and Microsoft Tools
+Effective Angular 2
+Effective Angular 2 Testing
+Enterprise Mobility A Whole
+Entry Form Creation
+Evolved Reduxing State
+Evolved Reduxing State Management
+Explore Serverless Architectures
+Felt So Good
+FlatBuffers all in One
+Form Creation from MVVM
+FrontEnd Debugging with Microsoft
+Functional Techniques for Imperative
+GNU for Data
+GNU for Data Analysis
+Get the most out
+Git A practical
+Git A practical guide
+Go CrossPlatform Native
+Go CrossPlatform Native Awesomeness
+Great Team Starts
+Handson Labs Intel
+Handson Labs Intel Curie
+Hangfire the ultimate
+Hangfire the ultimate MVC
+IOT to talk
+Imperative Object Oriented
+Imperative Object Oriented Languages
 Integration and Deployment
-Interfaces to Minecraft
-Intro to AngularJS
-Intro to AngularJS Hello
 Intro to Visual
 Intro to Visual Web
-Introduction to Azure
-Introduction to Azure Service
-Introduction to BDD-Style
-Introduction to BDD-Style testing
-Introduction to Big
-Introduction to Big Data
+Introduction to Continuous
+Introduction to Continuous Integration
 Introduction to Microsoft
-Introduction to Microsoft Azure
+Introduction to Microsoft Cognitive
 Introduction to R
 Introduction to Swift
-Isolated with Mocks
-JavaScript Libraries for Office
-Keeping Your Unit
-Keeping Your Unit Tests
-Learned to Love
-Learned to Love Dependency
-Libraries for Office
-Libraries for Office 365
-Love Dependency Injection
-MVC 6 Getting Started
-Make Your Web
-Make Your Web Work
-Make your code
-Make your code work
-Making cool gadgets
-Mapping with Leaflet.js
+Introduction to Swift 3
+Introduction to dot Net
+Introduction to the SharePoint
+JavaScript Evolved Reduxing
+JavaScript Evolved Reduxing State
+Labs Intel Curie
+Lets Build a Bot
+Leveraging UNIX Tools
+Leveraging UNIX Tools GNU
+MVC and WebApi
+MVC and WebApi Task
+MVP and Community
+MVP and Community Panel
+Make your Mobile
+Make your Mobile App
+Management Objects SMO
+Management with Angular
+Management with Angular 2
 Maturing DevOps to Optimize
-Messaging for Applications
-Microsofts BigData Technologies
-Minecraft or how-to
-Minecraft or how-to look
-Natural User Interface
-New Idea to NuGet
-New In C#
-New In C# 6
+Megabytes to Terabytes
+Megabytes to Terabytes quickly
+Metaprogramming in dot Net
+Micro controller Setup
+Microsoft Azure Functions
+Microsoft Cognitive AI
+Microsoft Edge and Microsoft
+Microsofts AzureBigData Technologies
+Mixed Reality with Microsoft
+Mobile App Stand
+Mobile App Stand Out
+Mobility A Whole
+Mobility A Whole Different
+Modern jQuery Refactoring
+Monads as simple
+Monads as simple as
+Monitoring in Meatspace
+More Effective Angular
+More Effective Angular 2
+Never Felt So
+Never Felt So Good
+Object Oriented Languages
 Optimize Value Delivery
-Optimizing Team Efficiency
-Panel Hack Your Career
-Pester Me An Introduction
-Phenomenal IT Consultant
-Platform using Microsofts
-Platform using Microsofts BigData
-PowerShell V5.0 ships
-Processes in SharePoint
-Processing with Azure
-Processing with Azure WebJobs
-Programmatic Interfaces to Minecraft
-Programming for Natural
-Programming for Natural User
-RabbitMQ Robust Messaging
-Reactive Programming for Natural
-Reporting Services for Developers
-Responsive Image Strategy
-Responsive Web Design
-Robust Messaging for Applications
-SQL Server Reporting
-SQL Server Reporting Services
-SaaS and or HDP
-SaaS and HDP
-SaaS or HDP
-Scaling Systems Architectures
-Server Reporting Services
-Services for Developers
-Services for Developers attendees
-Side Keeping Your Unit
-Side Thats Your Side
-Solid to Web
-Solid to Web Development
-Spark on HDInsights
-Started With JavaScript
-Started With JavaScript Libraries
-Studio and TFS
-Successful App A Primer
+Pine64 Using Windows
+Pine64 Using Windows 10
+Practical DevOps Using Azure
+Programming Azure Service
+Programming Azure Service Fabric
+Programming for the CLR
+Rapid XamarinForms XAML
+Rapid XamarinForms XAML Data
+Reality with Microsoft
+Reality with Microsoft HoloLens
+Reasons to upgrade
+Reduxing State Management
+Refactoring and Testing
+RiPi and Pine64
+SEO scaling all
+SQL Server 2016
+SQL Server 2016 Enterprise
+SQL Server Management
+SQL Server Management Objects
+Scale dot Net
+Scale dot Net Apps
+Scaling Techniques for Azure
+Scaling Up going
+Science applications using Microsofts
+Securing your Azure
+Securing your Azure Web
+Server 2016 Enterprise
+Server Management Objects
+Server Management Objects SMO
+Serverless Architectures with Microsoft
+Services Workers Your Web
+Setup and Development
+Starts With Youand
+State Management with Angular
+Studio A look
+Studio A look at
 Swift Introduction to Swift
-Systems Architectures that grow
-TSQL for dot net
-Team Efficiency with Visual
-Tests Isolated with Mocks
-Through The Static
-Tooling for Angular
-Tooling for Angular 1.x
-TransactSQL for Developers
-TransactSQL for Developers attendees
-TypeScript JavaScript Evolved
-Unit Tests Isolated
-V5.0 ships with Windows
-Visual Studio and TFS
-Visual Web Parts
-Web Design To Make
-Web Work Everywhere
-WebJobs My Next
-WebJobs My Next SuperPower
-Write Better Code
-apps with ManifoldJS
-apps with ManifoldJS VorlonJS
-as a developer
-attendees choose topics
-code work everywhere
-cool gadgets with IOT
-cool to your kid
-current state of C
-debugging hybrid mobile
-debugging hybrid mobile apps
-dot net 4.6+
-dot net 4.6+ Features
+TSQL for Application
+TSQL for Application Developers
+Team Starts With Youand
+Techniques for Azure
+Techniques for Azure SQL
+Techniques for Imperative
+Techniques for Imperative Object
+Testable ES2015 AngularJS
+Testable ES2015 AngularJS 1.5.x
+Testing the Way
+Testing the Way Forward
+Tools GNU for Data
+UNIX Tools GNU
+Understanding Azure Service
+Understanding Azure Service Fabric
+Up going from Megabytes
+Visual Studio A look
+Visual Web Part
+Visual Web Part Development
+Wearable Handson Labs
+Wearable Handson Labs Intel
+Web App with ASP
+Web Applications Never
+Web Applications Never Felt
+Web Part Development
+WebApi Task Manager
+Who needs Visual
+Who needs Visual Studio
+Whole Different World
+Windows 10 IOT
+Workers Your Web
+Workers Your Web Applications
+Write Better C#
+Write Better C# Code
+XAML Data Entry
+XAML Data Entry Form
+XamarinForms XAML Data
+XamarinForms XAML Data Entry
+ZeroMQ ZooKeeper and FlatBuffers
+ZooKeeper and FlatBuffers
+ZooKeeper and FlatBuffers all
+all in One
+all in One hour
+all in one
+applications using Microsofts
+applications using Microsofts AzureBigData
+as simple as
+as simple as it
+at using dot net
+azure creation debugging
+azure creation debugging SEO
+build games on Xbox
+controller Setup and Development
+creation debugging SEO
+creation debugging SEO scaling
+debugging SEO scaling
+debugging SEO scaling all
+dot net Apps
 dot net Core
-dot net Debugging
+dot net Core 1.0
+dot net Core data
+dot net Core everywhere
 dot net Developers
-dot net Integration
-gadgets with IOT
-grow as a developer
-help you grow
-help you grow as
-helped us improve
-how-to look cool
-hybrid mobile apps
-improve the scalability
-mobile apps with ManifoldJS
-scalability of our SaaS
-ships with Windows
-ships with Windows 10
-started with Containers
-state of C
-state of C C++
-techniques that help
-testing for Powershell
-tips and techniques
-tools tips and techniques
-web Make your code
+games on Xbox
+games on Xbox One
+going from Megabytes
+guide for the rest
+jQuery Refactoring and Testing
+needs Visual Studio
+out of Xamarin
+out of Xamarin Forms
+scaling all in one
+simple as it
+talk to AndroidLinux
+ultimate MVC and WebApi
+upgrade to SQL
+upgrade to SQL Server
+websites on azure
+websites on azure creation
 
 LIST_OF_BADGES
 --------------

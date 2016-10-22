@@ -64,7 +64,7 @@ var timeIntentFuncs = {
 
             return promise.resolve(Text.nextSessionTime(time))
                 .then(function (val) { return Output.say(val, request, response, endSession); })
-                .then(function (val) { return Output.log(val, request, response); });
+                .then(function (val) { return Output.log('[Time] ' + val, request, response); });
                 // .catch(function (err) { return Output.error(err, response); });
         }
     }

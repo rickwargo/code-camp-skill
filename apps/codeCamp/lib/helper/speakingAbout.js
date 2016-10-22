@@ -62,7 +62,7 @@ var speakingAboutIntentFuncs = {
         return getSpeakerName(speaker)
             .then(getSpeakerPresentationsOrRefineList)
             .then(function (val) { return Output.say(val, request, response, endSession); })
-            .then(function (val) { return Output.log(val, request, response); });
+            .then(function (val) { return Output.log('[SpeakingAbout] ' + val, request); });
             // .catch(function (err) { return Output.error(err, response); });
     }
 };

@@ -90,6 +90,10 @@
       ]
     },
     {
+      "intent": "MostPopularSpeakerIntent",
+      "slots": []
+    },
+    {
       "intent": "AMAZON.CancelIntent",
       "slots": []
     },

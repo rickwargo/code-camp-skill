@@ -24,7 +24,8 @@ var dynamodbHelper = {
             TableName: Config.namespace + 'ActivityLog',
             Item: {
                 Key: Uuid.v4(),
-                What: WhichCamp + ': ' + something,
+                Which: WhichCamp,
+                What: something,
                 When: new Date().getTime(),
                 WhenString: new Date().toLocaleString(),
                 Who: userId

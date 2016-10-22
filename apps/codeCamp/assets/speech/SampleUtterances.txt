@@ -42,59 +42,113 @@ IsSpeakerHereIntent	Is he presenting today
 IsSpeakerHereIntent	Was she presenting today
 IsSpeakerHereIntent	Is she presenting today
 IsSpeakerHereIntent	{Speaker} here
+IsSpeakerHereIntent	If {Speaker} here
 IsSpeakerHereIntent	he here
+IsSpeakerHereIntent	If he here
 IsSpeakerHereIntent	she here
+IsSpeakerHereIntent	If she here
 IsSpeakerHereIntent	{Speaker} is here
+IsSpeakerHereIntent	If {Speaker} is here
 IsSpeakerHereIntent	he is here
+IsSpeakerHereIntent	If he is here
 IsSpeakerHereIntent	she is here
+IsSpeakerHereIntent	If she is here
 IsSpeakerHereIntent	{Speaker} was here
+IsSpeakerHereIntent	If {Speaker} was here
 IsSpeakerHereIntent	he was here
+IsSpeakerHereIntent	If he was here
 IsSpeakerHereIntent	she was here
+IsSpeakerHereIntent	If she was here
 IsSpeakerHereIntent	{Speaker} speaking
+IsSpeakerHereIntent	If {Speaker} speaking
 IsSpeakerHereIntent	he speaking
+IsSpeakerHereIntent	If he speaking
 IsSpeakerHereIntent	she speaking
+IsSpeakerHereIntent	If she speaking
 IsSpeakerHereIntent	{Speaker} is speaking
+IsSpeakerHereIntent	If {Speaker} is speaking
 IsSpeakerHereIntent	he is speaking
+IsSpeakerHereIntent	If he is speaking
 IsSpeakerHereIntent	she is speaking
+IsSpeakerHereIntent	If she is speaking
 IsSpeakerHereIntent	{Speaker} was speaking
+IsSpeakerHereIntent	If {Speaker} was speaking
 IsSpeakerHereIntent	he was speaking
+IsSpeakerHereIntent	If he was speaking
 IsSpeakerHereIntent	she was speaking
+IsSpeakerHereIntent	If she was speaking
 IsSpeakerHereIntent	{Speaker} presenting
+IsSpeakerHereIntent	If {Speaker} presenting
 IsSpeakerHereIntent	he presenting
+IsSpeakerHereIntent	If he presenting
 IsSpeakerHereIntent	she presenting
+IsSpeakerHereIntent	If she presenting
 IsSpeakerHereIntent	{Speaker} is presenting
+IsSpeakerHereIntent	If {Speaker} is presenting
 IsSpeakerHereIntent	he is presenting
+IsSpeakerHereIntent	If he is presenting
 IsSpeakerHereIntent	she is presenting
+IsSpeakerHereIntent	If she is presenting
 IsSpeakerHereIntent	{Speaker} was presenting
+IsSpeakerHereIntent	If {Speaker} was presenting
 IsSpeakerHereIntent	he was presenting
+IsSpeakerHereIntent	If he was presenting
 IsSpeakerHereIntent	she was presenting
+IsSpeakerHereIntent	If she was presenting
 IsSpeakerHereIntent	{Speaker} here today
+IsSpeakerHereIntent	If {Speaker} here today
 IsSpeakerHereIntent	he here today
+IsSpeakerHereIntent	If he here today
 IsSpeakerHereIntent	she here today
+IsSpeakerHereIntent	If she here today
 IsSpeakerHereIntent	{Speaker} is here today
+IsSpeakerHereIntent	If {Speaker} is here today
 IsSpeakerHereIntent	he is here today
+IsSpeakerHereIntent	If he is here today
 IsSpeakerHereIntent	she is here today
+IsSpeakerHereIntent	If she is here today
 IsSpeakerHereIntent	{Speaker} was here today
+IsSpeakerHereIntent	If {Speaker} was here today
 IsSpeakerHereIntent	he was here today
+IsSpeakerHereIntent	If he was here today
 IsSpeakerHereIntent	she was here today
+IsSpeakerHereIntent	If she was here today
 IsSpeakerHereIntent	{Speaker} speaking today
+IsSpeakerHereIntent	If {Speaker} speaking today
 IsSpeakerHereIntent	he speaking today
+IsSpeakerHereIntent	If he speaking today
 IsSpeakerHereIntent	she speaking today
+IsSpeakerHereIntent	If she speaking today
 IsSpeakerHereIntent	{Speaker} is speaking today
+IsSpeakerHereIntent	If {Speaker} is speaking today
 IsSpeakerHereIntent	he is speaking today
+IsSpeakerHereIntent	If he is speaking today
 IsSpeakerHereIntent	she is speaking today
+IsSpeakerHereIntent	If she is speaking today
 IsSpeakerHereIntent	{Speaker} was speaking today
+IsSpeakerHereIntent	If {Speaker} was speaking today
 IsSpeakerHereIntent	he was speaking today
+IsSpeakerHereIntent	If he was speaking today
 IsSpeakerHereIntent	she was speaking today
+IsSpeakerHereIntent	If she was speaking today
 IsSpeakerHereIntent	{Speaker} presenting today
+IsSpeakerHereIntent	If {Speaker} presenting today
 IsSpeakerHereIntent	he presenting today
+IsSpeakerHereIntent	If he presenting today
 IsSpeakerHereIntent	she presenting today
+IsSpeakerHereIntent	If she presenting today
 IsSpeakerHereIntent	{Speaker} is presenting today
+IsSpeakerHereIntent	If {Speaker} is presenting today
 IsSpeakerHereIntent	he is presenting today
+IsSpeakerHereIntent	If he is presenting today
 IsSpeakerHereIntent	she is presenting today
+IsSpeakerHereIntent	If she is presenting today
 IsSpeakerHereIntent	{Speaker} was presenting today
+IsSpeakerHereIntent	If {Speaker} was presenting today
 IsSpeakerHereIntent	he was presenting today
+IsSpeakerHereIntent	If he was presenting today
 IsSpeakerHereIntent	she was presenting today
+IsSpeakerHereIntent	If she was presenting today
 IsSpeakerHereIntent	Are they here
 IsSpeakerHereIntent	Are they speaking
 IsSpeakerHereIntent	Are they presenting
@@ -1673,6 +1727,7 @@ SessionIntent	Show me about sessions similar to {Session}
 SessionIntent	Say me about sessions similar to {Session}
 SessionInfoIntent	Tell me about {SessionName}
 SessionInfoIntent	What is {SessionName} about
+SessionInfoIntent	Tell me about the {SessionName} session
 ListSpeakersByBadgeIntent	Which Speaker is {Badge}
 ListSpeakersByBadgeIntent	What Speaker is {Badge}
 ListSpeakersByBadgeIntent	Which Presenter is {Badge}
@@ -1713,3 +1768,19 @@ ListSpeakersByBadgeIntent	Who is from {Badge}
 ListSpeakersByBadgeIntent	Who here is from {Badge}
 ListSpeakersByBadgeIntent	Who are from {Badge}
 ListSpeakersByBadgeIntent	Who here are from {Badge}
+MostPopularSpeakerIntent	Name of the most popular speaker
+MostPopularSpeakerIntent	Who is the most popular speaker
+MostPopularSpeakerIntent	Name of the favorite speaker
+MostPopularSpeakerIntent	Who is the favorite speaker
+MostPopularSpeakerIntent	Name of the most popular presenter
+MostPopularSpeakerIntent	Who is the most popular presenter
+MostPopularSpeakerIntent	Name of the favorite presenter
+MostPopularSpeakerIntent	Who is the favorite presenter
+MostPopularSpeakerIntent	Name of the most popular person
+MostPopularSpeakerIntent	Who is the most popular person
+MostPopularSpeakerIntent	Name of the favorite person
+MostPopularSpeakerIntent	Who is the favorite person
+MostPopularSpeakerIntent	Who do people ask about
+MostPopularSpeakerIntent	Who do people ask about most
+MostPopularSpeakerIntent	Who do people ask about most often
+MostPopularSpeakerIntent	Who is the bomb
