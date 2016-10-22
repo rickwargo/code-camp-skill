@@ -97,6 +97,6 @@ After successful sign-up of an AWS account, perform the following setups.
 ## Debugging
 ### Startup
 If there is no response, check the application Id is set up correctly. Put a breakpoint on
-alexaApp.pre = function (request, response, type) {
+`alexaApp.pre = function (request, response, type) {`
 
 ## Playground
